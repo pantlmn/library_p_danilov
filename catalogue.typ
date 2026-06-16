@@ -1,11 +1,11 @@
-#import "@preview/icu-datetime:0.1.2": fmt-date
+#import "@preview/icu-datetime:0.2.2": fmt
 
 #set page(
   paper: "a4",
   margin: (inside: 3cm, outside: 1.5cm, top: 2cm, bottom: 3cm),
   footer: context [#set text(size: 9pt)
     #counter(page).display("стр. 1 из 1", both: true) #h(1fr)
-    #fmt-date(datetime.today(), locale: "ru")
+    #fmt(datetime.today(), locale: "ru", date-fields: "YMD", length: "long") 
   ]
 )
 

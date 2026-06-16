@@ -2202,7 +2202,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-2",
-		"call-number": "Ф26",
+		"call-number": "А-2 Ф26",
 		"collection-title": "Открывая православие",
 		"ISBN": "978-5-91761-838-8",
 		"language": "rus",
@@ -10319,7 +10319,6 @@
 		"id": "http://zotero.org/groups/4505988/items/9GJHFDA3",
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
-		"call-number": "FB 2 24-32/19; OR 2/К-20",
 		"collection-number": "кн. 3",
 		"collection-title": "Труды Научного отдела Николо-Сольбинского женского монастыря Переславской епархии. Историческая серия, История Николо-Сольбинского монастыря",
 		"ISBN": "978-5-6047867-4-1",
@@ -10358,7 +10357,7 @@
 		"id": "http://zotero.org/groups/4505988/items/KWCSMJUP",
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
-		"call-number": "FB 2 07-73/158; FB 2 07-73/157",
+		"call-number": "Б-2 Ц96 00011",
 		"edition": "3-е изд., испр",
 		"ISBN": "978-5-7533-0142-0",
 		"language": "rus",
@@ -10396,7 +10395,6 @@
 		"id": "http://zotero.org/groups/4505988/items/HUTPSHXE",
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
-		"call-number": "FB 2 92-16/195; FB 2 92-16/194",
 		"language": "rus",
 		"note": "RSLID: 01001633212",
 		"number-of-pages": "140",
@@ -10407,7 +10405,7 @@
 		"URL": "https://search.rsl.ru/ru/record/01001633212",
 		"author": [
 			{
-				"family": "Иларион",
+				"family": "Иларион (Троицкий), архим.",
 				"given": ""
 			}
 		],
@@ -13410,6 +13408,247 @@
 			"date-parts": [
 				[
 					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/UFIBU6CV",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "FB 2 09-46/182; FB 2 09-46/181",
+		"ISBN": "978-5-93618-164-1",
+		"language": "rus",
+		"note": "RSLID: 01004352936\nBBK: Э372.24я6; Э372.24-421.14,0",
+		"number-of-pages": "630",
+		"publisher": "ИНЭС",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Святая Русь: под Покровом Пресвятой Богородицы",
+		"title-short": "Святая Русь",
+		"URL": "https://search.rsl.ru/ru/record/01004352936",
+		"author": [
+			{
+				"family": "Кузык",
+				"given": "Борис Николаевич"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					6,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/RJSUYMZF",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-2 Ц96 00010",
+		"edition": "3-е изд., испр",
+		"ISBN": "978-5-7533-0142-0",
+		"language": "rus",
+		"note": "RSLID: 01003351928\nBBK: Э372.24-3,0",
+		"number-of-pages": "815",
+		"publisher": "Сретенский монастырь",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "История Русской Православной Церкви. Синодальный и новейший периоды, (1700-2005)",
+		"URL": "https://search.rsl.ru/ru/record/01003351928",
+		"author": [
+			{
+				"family": "Цыпин",
+				"given": "Владислав Александрович"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					10,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/WYFNEXSW",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-2 Ц96 00009",
+		"edition": "3-е изд., испр",
+		"ISBN": "978-5-7533-0142-0",
+		"language": "rus",
+		"note": "RSLID: 01003351928\nBBK: Э372.24-3,0",
+		"number-of-pages": "815",
+		"publisher": "Сретенский монастырь",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "История Русской Православной Церкви. Синодальный и новейший периоды, (1700-2005)",
+		"URL": "https://search.rsl.ru/ru/record/01003351928",
+		"author": [
+			{
+				"family": "Цыпин",
+				"given": "Владислав Александрович"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					10,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/6DCLC8EK",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-2 Ц96 00008",
+		"edition": "3-е изд., испр",
+		"ISBN": "978-5-7533-0142-0",
+		"language": "rus",
+		"note": "RSLID: 01003351928\nBBK: Э372.24-3,0",
+		"number-of-pages": "815",
+		"publisher": "Сретенский монастырь",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "История Русской Православной Церкви. Синодальный и новейший периоды, (1700-2005)",
+		"URL": "https://search.rsl.ru/ru/record/01003351928",
+		"author": [
+			{
+				"family": "Цыпин",
+				"given": "Владислав Александрович"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					10,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/QITQCRWF",
+		"type": "book",
+		"call-number": "П-1 С80 00012",
+		"number-of-pages": "104",
+		"publisher": "Преображенский скит Данилова монастыря",
+		"publisher-place": "М",
+		"title": "Стихиры-подобны для византийского пения. Нотное приложение",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "stihiri-2024-2",
+		"type": "book",
+		"call-number": "П-1 С80 00013",
+		"citation-key": "stihiri-2024-2",
+		"number-of-pages": "228",
+		"number-of-volumes": "3",
+		"publisher": "Преображенский скит Данилова монастыря",
+		"publisher-place": "М",
+		"title": "Стихиры-подобны для византийского пения. Минея. Часть 2. Январь-апрель",
+		"volume": "2",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/B3QII7CQ",
+		"type": "book",
+		"call-number": "П-1 С80 00014",
+		"number-of-pages": "330",
+		"number-of-volumes": "3",
+		"publisher": "Преображенский скит Данилова монастыря",
+		"publisher-place": "М",
+		"title": "Стихиры-подобны для византийского пения. Минея. Часть 3. Май-август",
+		"volume": "2",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/UNDZA7RM",
+		"type": "book",
+		"call-number": "П-1 С80 00015",
+		"number-of-pages": "380",
+		"number-of-volumes": "3",
+		"publisher": "Преображенский скит Данилова монастыря",
+		"publisher-place": "М",
+		"title": "Стихиры-подобны для византийского пения. Минея. Часть 1. Сентябрь-декабрь",
+		"volume": "1",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/IZL6LGWH",
+		"type": "book",
+		"call-number": "П-1 С80 00016",
+		"number-of-pages": "314",
+		"number-of-volumes": "3",
+		"publisher": "Преображенский скит Данилова монастыря",
+		"publisher-place": "М",
+		"title": "Стихиры-подобны для византийского пения. Октоих. Триодь Постная и Цветная",
+		"volume": "1",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
 				]
 			]
 		}
