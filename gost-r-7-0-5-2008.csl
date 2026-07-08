@@ -109,7 +109,7 @@
       <key variable="issued"/>
     </sort>
     <layout suffix=".">
-      <text macro="citation-number"/>
+      <!-- <text macro="citation-number"/>-->
       <text macro="author" suffix=". "/>
       <choose>
         <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
