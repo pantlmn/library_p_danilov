@@ -4,7 +4,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-1",
-		"call-number": "Л93",
+		"call-number": "К-1 Л93",
 		"ISBN": "978-5-85280-151-7",
 		"language": "rus",
 		"note": "RSLID: 01004328550\nBBK: Э372.24-647.2Богородице-Рождественский монастырь,0",
@@ -37,7 +37,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-2",
-		"call-number": "П21",
+		"call-number": "Б-2 П21",
 		"collection-title": "Новомученики и исповедники Радонежские",
 		"ISBN": "978-5-00009-218-7",
 		"language": "rus",
@@ -75,7 +75,7 @@
 		"id": "http://zotero.org/groups/4505988/items/YVGYYZD4",
 		"type": "book",
 		"archive_location": "А-3",
-		"call-number": "П12",
+		"call-number": "А-3 П12",
 		"number-of-pages": "224",
 		"publisher": "Трим",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -93,7 +93,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-8",
-		"call-number": "А51",
+		"call-number": "А-8 А51",
 		"language": "rus grc",
 		"note": "container-title: Тайная исповедь в православной восточной Церкви [Текст] : опыт внешней истории / А. Алмазов\nRSLID: 01001726752\nBBK: Э371-503.263.1,0; Э372-503.263.1,0",
 		"number-of-pages": "609",
@@ -506,7 +506,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "З-17",
+		"call-number": "З17",
 		"language": "rus",
 		"note": "RSLID: 01000378349\nBBK: Ш5(2=Р)53-64я44",
 		"number-of-pages": "252",
@@ -592,7 +592,7 @@
 		"abstract": "Книга американского православного философа и богослова, одного из основателей",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-6",
-		"call-number": "Х22",
+		"call-number": "А-6 Х22",
 		"ISBN": "978-5-907457-21-8",
 		"language": "rus",
 		"note": "RSLID: 01010841742\nBBK: Э37-364,0; Э13(0)64-4,02",
@@ -945,7 +945,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г67",
+		"call-number": "Г-3 Г67",
 		"language": "rus",
 		"note": "container-title: Собрание сочинений [Текст] : В 5 т. / [Вступ. статья К. Симонова] ; [Критико-биогр. очерк и примеч. Г. Колесниковой]\nRSLID: 01005629513",
 		"number-of-pages": "566",
@@ -1350,7 +1350,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-2",
-		"call-number": "Д29",
+		"call-number": "Б-2 Д29",
 		"ISBN": "978-5-86566-004-0",
 		"language": "rus",
 		"note": "Предисл., примеч. И. Я. Авдиев.",
@@ -1414,7 +1414,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "А72",
+		"call-number": "Б-9 А72",
 		"edition": "2-е изд",
 		"ISBN": "978-5-907307-85-8",
 		"language": "rus",
@@ -1480,7 +1480,7 @@
 		"abstract": "В книге рассказывается о священническом и жизненном пути протоиерея Александра Георгиевича Воскресенского. Он происходил из древнего священнического рода, восходящего корнями ко временами Крещения Руси греческим духовенством",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "Ж71",
+		"call-number": "Б-10 Ж71",
 		"ISBN": "978-5-98574-010-3",
 		"language": "rus",
 		"note": "RSLID: 01002605991\nBBK: Э372.24-637.22-370.8Александр (Воскресенский),0",
@@ -1512,7 +1512,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-8",
-		"call-number": "У77",
+		"call-number": "А-8 У77",
 		"ISBN": "978-5-94625-084-9",
 		"language": "rus",
 		"note": "Book Title: Н\nevent-title: Успенский, Николай Дмитриевич (1900-1987)\nRSLID: 01003033618\nBBK: Э372.24-503.181,0; Э372.24я44",
@@ -1552,7 +1552,7 @@
 		"abstract": "В книге впервые за послереволюционный период переиздается русский перевод толкований блаженного Феодорита Кирского на трудные места первых четырнадцати книг Ветхого Завета",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-2",
-		"call-number": "Ф42",
+		"call-number": "А-2 Ф42",
 		"ISBN": "978-5-94625-073-3",
 		"language": "rus",
 		"note": "container-title: Блаженный Феодорит Кирский : [сочинения : пер. с греч.]\nRSLID: 01002400403",
@@ -1588,7 +1588,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-5",
-		"call-number": "А72",
+		"call-number": "А-5 А72",
 		"language": "rus",
 		"note": "RSLID: 01001692019\nBBK: Э372.24-461,0",
 		"number-of-pages": "325",
@@ -1625,7 +1625,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-5",
-		"call-number": "К36",
+		"call-number": "А-5 К36",
 		"ISBN": "978-5-7373-0103-3",
 		"language": "rus",
 		"note": "RSLID: 01000679219\nBBK: Э372.24-461,0",
@@ -1662,7 +1662,7 @@
 		"id": "http://zotero.org/groups/4505988/items/72NXT58U",
 		"type": "book",
 		"archive_location": "А-5",
-		"call-number": "И26",
+		"call-number": "А-5 И26",
 		"number-of-pages": "16",
 		"publisher": "Введенская Оптина Мустынь",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -1685,7 +1685,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-5",
-		"call-number": "Д93",
+		"call-number": "А-5 Д93",
 		"language": "rus",
 		"note": "RSLID: 01003635522",
 		"number-of-pages": "159",
@@ -1723,7 +1723,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-5",
-		"call-number": "Г83",
+		"call-number": "А-5 Г83",
 		"ISBN": "978-5-7789-0184-1",
 		"language": "rus",
 		"medium": "Текст",
@@ -1806,7 +1806,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-2.1",
-		"call-number": "Д16",
+		"call-number": "Г-2.1 Д16",
 		"collection-title": "Древнерусская литература в школе Моск. ин-т развития образоват. систем",
 		"ISBN": "978-5-7084-0001-7",
 		"language": "rus",
@@ -1846,7 +1846,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "А72",
+		"call-number": "Б-9 А72",
 		"edition": "4-е изд",
 		"ISBN": "978-5-907307-80-3",
 		"language": "rus",
@@ -1886,7 +1886,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-5.1",
-		"call-number": "Т82",
+		"call-number": "А-5.1 Т82",
 		"ISBN": "978-5-88017-219-1",
 		"language": "rus",
 		"medium": "Текст",
@@ -1925,7 +1925,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-5.1",
-		"call-number": "Т66",
+		"call-number": "А-5.1 Т66",
 		"edition": "2-е изд., испр",
 		"ISBN": "978-5-94512-119-5",
 		"language": "rus",
@@ -1957,7 +1957,7 @@
 		"id": "http://zotero.org/groups/4505988/items/6EQS97F7",
 		"type": "book",
 		"archive_location": "Б-9",
-		"call-number": "Ф23",
+		"call-number": "Б-9 Ф23",
 		"number-of-pages": "549",
 		"publisher": "Сатисъ",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -1980,7 +1980,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-4",
-		"call-number": "Ш95",
+		"call-number": "А-4 Ш95",
 		"ISBN": "978-5-94625-269-0",
 		"language": "rus",
 		"note": "RSLID: 01004272501\nBBK: Э372.24-11112.682,0",
@@ -2019,7 +2019,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "А72",
+		"call-number": "Б-9 А72 00029",
 		"edition": "5-е изд",
 		"ISBN": "978-5-907307-86-5",
 		"language": "rus",
@@ -2059,7 +2059,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "М97",
+		"call-number": "Б-9 М97",
 		"ISBN": "978-5-907202-88-7",
 		"language": "rus",
 		"note": "RSLID: 01010268483\nBBK: Р123.0я9",
@@ -2097,7 +2097,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-8",
-		"call-number": "А51",
+		"call-number": "А-8 А51",
 		"language": "rus grc",
 		"note": "container-title: Тайная исповедь в православной восточной Церкви [Текст] : опыт внешней истории / А. Алмазов\nRSLID: 01001726753\nBBK: Э371-503.263.1,0; Э372-503.263.1,0",
 		"number-of-pages": "464",
@@ -2126,7 +2126,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-6",
-		"call-number": "С32",
+		"call-number": "А-6 С32",
 		"language": "rus",
 		"note": "RSLID: 01001762614",
 		"number-of-pages": "252",
@@ -2162,7 +2162,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-2",
-		"call-number": "Ф26",
+		"call-number": "А-2 Ф26",
 		"collection-title": "Открывая православие",
 		"ISBN": "978-5-91761-837-1",
 		"language": "rus",
@@ -2243,7 +2243,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-4",
-		"call-number": "Н86",
+		"call-number": "А-4 Н86",
 		"ISBN": "978-5-7533-0104-8",
 		"language": "rus",
 		"note": "RSLID: 01000635771\nBBK: Э372.24-43,0",
@@ -2299,7 +2299,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-3",
-		"call-number": "И94",
+		"call-number": "А-3 И94",
 		"ISBN": "978-5-94625-193-8",
 		"language": "rus",
 		"note": "RSLID: 01003081414\nBBK: Э372-42,0",
@@ -2337,7 +2337,7 @@
 		"abstract": "\"Испытание тюрьмой\" - уже третья книга священника Кирилла Марковского на эту тему. Она написана с участием заключенных и для заключенных, а также для их родственников - в помощь и в утешение. В книге приведены размышления автора о смысле попущенных Богом испытаний, о любви Божией и милосердии к падшему человеку, изложены пастырские советы по преодолению тяжелых жизненных обстоятельств. Также в книгу включены откровенные свидетельства людей, прошедших тюремное заключение и еще пребывающих в местах лишения свободы. Людей, обретших в вере радость и силы для испытаний в неволе",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "М26",
+		"call-number": "Б-9 М26",
 		"ISBN": "978-5-907457-39-3",
 		"language": "rus",
 		"note": "RSLID: 01010916163\nBBK: Э372.24-683,0",
@@ -2376,7 +2376,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "К93",
+		"call-number": "Б-9 К93",
 		"ISBN": "978-5-7533-0154-3",
 		"language": "rus",
 		"note": "RSLID: 01003358465\nBBK: Э372.24-11,14",
@@ -2414,7 +2414,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-3",
-		"call-number": "К29",
+		"call-number": "А-3 К29",
 		"ISBN": "978-5-901094-12-9",
 		"language": "rus",
 		"note": "RSLID: 01000648633\nBBK: Э372-42,088.1",
@@ -2450,7 +2450,7 @@
 		"id": "http://zotero.org/groups/4505988/items/DVC5CDQT",
 		"type": "book",
 		"archive_location": "Б-9",
-		"call-number": "И43",
+		"call-number": "Б-9 И43",
 		"publisher": "Дух и литера",
 		"publisher-place": "Киев",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -2473,7 +2473,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "Д92",
+		"call-number": "Б-9 Д92",
 		"collection-title": "Духовная проза",
 		"ISBN": "978-5-91761-500-4",
 		"language": "rus",
@@ -2514,7 +2514,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "К72",
+		"call-number": "Б-9 К72",
 		"ISBN": "978-5-907202-24-5",
 		"language": "rus",
 		"note": "RSLID: 01010075904\nBBK: Ш5(2=Р)64-644",
@@ -2553,7 +2553,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-2",
-		"call-number": "И25",
+		"call-number": "А-2 И25",
 		"ISBN": "978-5-907202-61-0",
 		"language": "rus",
 		"note": "RSLID: 01010179755\nBBK: Э37-228.12,0",
@@ -2592,7 +2592,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "Л47",
+		"call-number": "Б-9 Л47",
 		"collection-title": "Люди среди людей",
 		"ISBN": "978-5-907202-77-1",
 		"language": "rus",
@@ -2631,7 +2631,7 @@
 		"id": "http://zotero.org/groups/4505988/items/XWANK4NC",
 		"type": "book",
 		"archive_location": "А-8",
-		"call-number": "М51",
+		"call-number": "А-8 М51",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Благослови молитву мою",
 		"author": [
@@ -2652,7 +2652,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "М67",
+		"call-number": "Б-9 М67",
 		"ISBN": "978-5-906456-49-6",
 		"language": "rus",
 		"note": "RSLID: 01010550540\nBBK: Э372.24-462.2я44; Э372.24-37я44; Т3(2Р)64-07я44",
@@ -2691,7 +2691,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "Л87",
+		"call-number": "Б-9 Л87",
 		"ISBN": "978-5-91761-495-3",
 		"language": "rus",
 		"medium": "Текст",
@@ -2735,7 +2735,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "И75",
+		"call-number": "К-0 И75",
 		"ISBN": "978-5-86060-006-5",
 		"language": "rus",
 		"note": "RSLID: 01001656886",
@@ -2771,20 +2771,19 @@
 	{
 		"id": "http://zotero.org/groups/4505988/items/YEZ2HWGE",
 		"type": "book",
-		"archive_location": "А-7",
-		"call-number": "Г35",
-		"number-of-pages": "64",
+		"call-number": "А-7 М17 00111",
+		"number-of-pages": "40",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
-		"title": "Чем православие отличается от католицизма, протестантизма и монофизитства?",
+		"title": "Чем православие отличается от буддизма?",
 		"author": [
 			{
-				"literal": "Георгий (Максимов), свящ."
+				"literal": "Максимов Георгий, свящ."
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2016"
+					"2012"
 				]
 			]
 		}
@@ -2794,7 +2793,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-4",
-		"call-number": "И75",
+		"call-number": "А-4 И75",
 		"ISBN": "978-5-00127-316-5",
 		"language": "rus",
 		"note": "RSLID: 01011081060\nBBK: Э372.24-422.2,0",
@@ -2850,7 +2849,7 @@
 		"id": "http://zotero.org/groups/4505988/items/T4BIEZSU",
 		"type": "book",
 		"archive_location": "А-3",
-		"call-number": "М15",
+		"call-number": "А-3 М15",
 		"number-of-pages": "608",
 		"publisher": "Харвест",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -2873,7 +2872,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-4",
-		"call-number": "И75",
+		"call-number": "А-4 И75",
 		"ISBN": "978-5-9968-0158-9",
 		"language": "rus",
 		"medium": "Текст",
@@ -2912,7 +2911,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-6",
-		"call-number": "В19",
+		"call-number": "А-6 В19",
 		"language": "rus",
 		"note": "RSLID: 01001759895",
 		"number-of-pages": "237",
@@ -2989,7 +2988,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "Р26",
+		"call-number": "Б-9 Р26",
 		"ISBN": "978-5-7789-0060-8",
 		"language": "rus",
 		"note": "RSLID: 01000671958\nBBK: Э372.24-4,0; Э372.24-198.914,0",
@@ -3027,7 +3026,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "Л33",
+		"call-number": "Б-9 Л33",
 		"ISBN": "978-5-9500223-7-1",
 		"language": "rus",
 		"medium": "Текст",
@@ -3084,7 +3083,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-8",
-		"call-number": "К12",
+		"call-number": "А-8 К12",
 		"language": "rus",
 		"medium": "Текст",
 		"note": "RSLID: 01007833205\nBBK: Э372.21-50я44",
@@ -3121,7 +3120,7 @@
 		"id": "http://zotero.org/groups/4505988/items/LE4P9FRK",
 		"type": "book",
 		"archive_location": "А-5.1",
-		"call-number": "Д56",
+		"call-number": "А-5.1 Д56",
 		"number-of-pages": "80",
 		"publisher": "СТСЛ",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -3178,7 +3177,7 @@
 		"type": "book",
 		"abstract": "Сборник церковных слов и внебогослужебных бесед об основных истинах христианской веры и нравственности, о молитве, о святом храме, таинствах и обрядах Православной Церкви и назидательных поучений для самого широкого круга читателей",
 		"archive_location": "А-4",
-		"call-number": "С28",
+		"call-number": "А-4 С28",
 		"number-of-pages": "332",
 		"publisher": "Издательство Сретенского монастыря",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -3235,7 +3234,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-8",
-		"call-number": "Ш72",
+		"call-number": "А-8 Ш72",
 		"ISBN": "978-5-906456-02-1",
 		"language": "rus",
 		"medium": "Текст",
@@ -3274,7 +3273,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-8",
-		"call-number": "Ш72",
+		"call-number": "А-8 Ш72",
 		"collection-number": "вып. 5",
 		"collection-title": "Неопалимая купина. Богословское наследие XX века",
 		"ISBN": "978-5-907457-30-0",
@@ -3319,7 +3318,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-3",
-		"call-number": "Ф39",
+		"call-number": "А-3 Ф39",
 		"edition": "Изд. 2-е, испр. и доп",
 		"ISBN": "978-5-89100-190-9",
 		"language": "rus",
@@ -3357,7 +3356,7 @@
 		"id": "http://zotero.org/groups/4505988/items/Z7JFRPPN",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "И75",
+		"call-number": "К-0 И75",
 		"number-of-pages": "258",
 		"publisher": "Репринт дореволюц.",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -3376,7 +3375,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "В45",
+		"call-number": "Б-9 В45",
 		"ISBN": "978-5-907202-44-3",
 		"language": "rus",
 		"note": "RSLID: 01010121235\nBBK: Э372.24-637.22-370.8Алексий (Мечёв),0; Э372.24-605.5,0",
@@ -3416,7 +3415,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "В27",
+		"call-number": "Б-9 В27",
 		"collection-title": "Библиотека богослова : ББ",
 		"language": "rus",
 		"medium": "Текст",
@@ -3454,7 +3453,7 @@
 		"id": "http://zotero.org/groups/4505988/items/8K8V6UMA",
 		"type": "book",
 		"archive_location": "Б-9",
-		"call-number": "С56",
+		"call-number": "Б-9 С56",
 		"number-of-pages": "420",
 		"publisher": "М.: ИПО \"У Никитских ворот\"",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -3472,7 +3471,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "Г15",
+		"call-number": "Б-9 Г15",
 		"ISBN": "978-5-4380-0179-9",
 		"language": "rus",
 		"number-of-pages": "336",
@@ -3507,7 +3506,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-4",
-		"call-number": "Г83",
+		"call-number": "А-4 Г83",
 		"collection-title": "Серия \"Святой Афон\"",
 		"ISBN": "978-5-91761-665-0",
 		"language": "rus",
@@ -3547,7 +3546,7 @@
 		"id": "http://zotero.org/groups/4505988/items/8ZWYBBCS",
 		"type": "book",
 		"archive_location": "А-4",
-		"call-number": "У17",
+		"call-number": "А-4 У17",
 		"number-of-pages": "32",
 		"publisher": "Москва. Типо-лит. Г.И. Простакова",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -3590,7 +3589,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-2",
-		"call-number": "Е13",
+		"call-number": "А-2 Е13",
 		"collection-title": "Свет Христов просвещает всех",
 		"ISBN": "978-5-91173-612-5",
 		"language": "rus",
@@ -3633,7 +3632,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "Г75",
+		"call-number": "Б-9 Г75",
 		"edition": "Изд. 2-е, доп.",
 		"ISBN": "978-5-907457-40-9",
 		"language": "rus",
@@ -3674,7 +3673,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-6",
-		"call-number": "З-91",
+		"call-number": "З91",
 		"ISBN": "978-5-91761-006-1",
 		"language": "rus",
 		"note": "RSLID: 01004389480\nBBK: Э23я73-2",
@@ -3712,7 +3711,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "В57",
+		"call-number": "Б-9 В57",
 		"ISBN": "978-5-7676-0130-1",
 		"language": "rus",
 		"note": "RSLID: 01000583339\nBBK: Э372.24-625.1,0",
@@ -3748,7 +3747,7 @@
 		"id": "http://zotero.org/groups/4505988/items/R8JRFJE9",
 		"type": "book",
 		"archive_location": "А-5.1",
-		"call-number": "И26",
+		"call-number": "А-5.1 И26",
 		"number-of-pages": "62",
 		"publisher": "СТСЛ",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -3765,7 +3764,7 @@
 		"id": "http://zotero.org/groups/4505988/items/LE9DHRML",
 		"type": "book",
 		"archive_location": "А-5.1",
-		"call-number": "Б12",
+		"call-number": "А-5.1 Б12",
 		"publisher": "СТСЛ",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Беседа преподобного Серафима Саровского с Николаем Александровичем Мотовиловым \"О цели христианской жизни\"",
@@ -3781,7 +3780,7 @@
 		"id": "http://zotero.org/groups/4505988/items/UBZN3SFA",
 		"type": "book",
 		"archive_location": "Б-9",
-		"call-number": "Д85",
+		"call-number": "Б-9 Д85",
 		"number-of-pages": "400",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Духовные очаги Сергиева Посада в XX столетии. К тридцатилетию со дня гибели протоиерея Александра Меня",
@@ -3798,7 +3797,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "Б83",
+		"call-number": "Б-9 Б83",
 		"ISBN": "978-5-907307-63-6",
 		"language": "rus",
 		"note": "RSLID: 01010545178\nBBK: Э372.24-681.78,0",
@@ -3836,7 +3835,7 @@
 		"id": "http://zotero.org/groups/4505988/items/ZECT4RQY",
 		"type": "book",
 		"archive_location": "Б-9",
-		"call-number": "Н63",
+		"call-number": "Б-9 Н63",
 		"number-of-pages": "42",
 		"publisher-place": "Куйбышев",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -3858,7 +3857,7 @@
 		"id": "http://zotero.org/groups/4505988/items/69JHZEV4",
 		"type": "book",
 		"archive_location": "А-5.1",
-		"call-number": "И68",
+		"call-number": "А-5.1 И68",
 		"number-of-pages": "95",
 		"publisher-place": "Мадрид",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -3881,7 +3880,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-5.1",
-		"call-number": "М77",
+		"call-number": "А-5.1 М77",
 		"language": "rus",
 		"note": "RSLID: 01001604662",
 		"number-of-pages": "206",
@@ -3919,7 +3918,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-2",
-		"call-number": "И43",
+		"call-number": "А-2 И43",
 		"ISBN": "978-5-906960-74-0",
 		"language": "rus",
 		"note": "RSLID: 01011203057\nBBK: Э37-228.2,0",
@@ -3957,7 +3956,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "А72",
+		"call-number": "Б-9 А72",
 		"ISBN": "978-5-907307-61-2",
 		"language": "rus",
 		"note": "RSLID: 01010572930\nBBK: Э372.24-462.2я44",
@@ -3995,7 +3994,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "А94",
+		"call-number": "Б-9 А94",
 		"ISBN": "978-5-903898-24-4",
 		"language": "rus",
 		"medium": "Текст",
@@ -4033,7 +4032,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "А48",
+		"call-number": "Б-9 А48",
 		"language": "rus",
 		"medium": "Текст",
 		"note": "container-title: Слова, речи, послания, обращения, доклады, статьи [Текст] / Алексий, патриарх моск. и всея Руси\nRSLID: 01005615147",
@@ -4069,7 +4068,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-8",
-		"call-number": "С28",
+		"call-number": "А-8 С28",
 		"edition": "3-е изд",
 		"ISBN": "978-5-89816-186-6",
 		"language": "rus gre chu",
@@ -4113,7 +4112,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-2",
-		"call-number": "Б82",
+		"call-number": "А-2 Б82",
 		"ISBN": "978-5-907307-87-2",
 		"language": "rus",
 		"number-of-pages": "252",
@@ -4151,7 +4150,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-3",
-		"call-number": "Л28",
+		"call-number": "А-3 Л28",
 		"ISBN": "978-5-87468-174-6",
 		"language": "rus",
 		"number-of-pages": "621",
@@ -4188,7 +4187,7 @@
 		"id": "http://zotero.org/groups/4505988/items/9243TCEU",
 		"type": "book",
 		"archive_location": "Г-3",
-		"call-number": "Г12",
+		"call-number": "Г-3 Г12",
 		"number-of-pages": "192",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "И отрет Бог всякую слезу",
@@ -4210,7 +4209,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "Л84",
+		"call-number": "К-0 Л84",
 		"ISBN": "978-5-91362-965-4",
 		"language": "rus",
 		"medium": "Текст",
@@ -4249,7 +4248,7 @@
 		"id": "http://zotero.org/groups/4505988/items/6D4URIGG",
 		"type": "book",
 		"archive_location": "А-4",
-		"call-number": "Б59",
+		"call-number": "А-4 Б59",
 		"number-of-pages": "187",
 		"publisher": "Фриденсштимме",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -4271,7 +4270,7 @@
 		"id": "http://zotero.org/groups/4505988/items/EX8JNUIE",
 		"type": "book",
 		"archive_location": "Г-3",
-		"call-number": "Б91",
+		"call-number": "Г-3 Б91",
 		"number-of-pages": "124",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Что может стоить жизнь моя... Стихи",
@@ -4308,7 +4307,7 @@
 		"id": "http://zotero.org/groups/4505988/items/VUSGTCIS",
 		"type": "book",
 		"archive_location": "К-1",
-		"call-number": "И90",
+		"call-number": "К-1 И90",
 		"number-of-pages": "31",
 		"publisher": "Агиос Петрос Кинуриас",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -4322,7 +4321,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "П-1.1",
-		"call-number": "Г61",
+		"call-number": "П-1.1 Г61",
 		"ISBN": "978-5-88017-678-6",
 		"language": "rus",
 		"medium": "Текст",
@@ -4360,7 +4359,7 @@
 		"id": "http://zotero.org/groups/4505988/items/N795ASCJ",
 		"type": "book",
 		"archive_location": "Б-10",
-		"call-number": "А94",
+		"call-number": "Б-10 А94",
 		"number-of-pages": "800",
 		"publisher": "Святая Гора Афон",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -4416,7 +4415,7 @@
 		"id": "http://zotero.org/groups/4505988/items/FV2GNPIE",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "П72",
+		"call-number": "К-0 П72",
 		"edition": "Ново-Тихвинский женский монастырь",
 		"number-of-pages": "120",
 		"publisher": "Паломник",
@@ -4480,7 +4479,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "З-3",
-		"call-number": "Т30",
+		"call-number": "З-3 Т30",
 		"language": "rus",
 		"note": "Book Title: Текст\nRSLID: 01010860298\nBBK: Ш102.23р.я431(0)",
 		"number-of-pages": "278",
@@ -4511,7 +4510,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-2.1",
-		"call-number": "Д66",
+		"call-number": "Г-2.1 Д66",
 		"ISBN": "978-5-268-01099-2",
 		"language": "rus",
 		"note": "RSLID: 01001604909",
@@ -4550,7 +4549,7 @@
 		"abstract": "История. Исторические науки -- Россия -- Период капитализма (1861-1917) -- Период империализма (2 пол. 90-х гг. 19 в.-1917 г.) -- Персоналии государственных и общественно-политических деятелей -- Николай II (1868-1918) - русский император -- Семейное окружение -- Сборник",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "Ц19",
+		"call-number": "К-0 Ц19",
 		"edition": "6-е изд., испр",
 		"ISBN": "978-5-7533-1084-2",
 		"language": "rus",
@@ -4591,7 +4590,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-1",
-		"call-number": "Г87",
+		"call-number": "К-1 Г87",
 		"ISBN": "978-5-9946-0157-0",
 		"language": "rus",
 		"medium": "Текст",
@@ -4630,7 +4629,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "П72",
+		"call-number": "К-0 П72",
 		"edition": "2-е изд., испр. и доп",
 		"ISBN": "978-5-86594-191-0",
 		"language": "rus",
@@ -4664,7 +4663,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "У11",
+		"call-number": "Б-10 У11",
 		"ISBN": "978-5-7533-0079-9",
 		"language": "rus",
 		"note": "RSLID: 01000616389\nBBK: Э372.24-643-370.8,0",
@@ -4703,7 +4702,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "С68",
+		"call-number": "К-0 С68",
 		"language": "rus",
 		"note": "RSLID: 01001677299",
 		"number-of-pages": "207",
@@ -4798,7 +4797,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "Г39",
+		"call-number": "К-0 Г39",
 		"collection-title": "Византийская библиотека / Сретенский монастырь",
 		"ISBN": "978-5-7533-0398-1",
 		"language": "rus",
@@ -4837,7 +4836,7 @@
 		"id": "http://zotero.org/groups/4505988/items/4PJ2X5Y9",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "А46",
+		"call-number": "К-0 А46",
 		"publisher": "Псалтирь",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Александр Невский. Жизнеописание",
@@ -4853,7 +4852,7 @@
 		"id": "http://zotero.org/groups/4505988/items/6DIE5KK9",
 		"type": "book",
 		"archive_location": "Б-10",
-		"call-number": "Н39",
+		"call-number": "Б-10 Н39",
 		"number-of-pages": "31",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Небесный ангел. Светлой памяти Старца Николая (Гурьянова)",
@@ -4869,7 +4868,7 @@
 		"id": "http://zotero.org/groups/4505988/items/PBCPKURH",
 		"type": "book",
 		"archive_location": "К-1",
-		"call-number": "П27",
+		"call-number": "К-1 П27",
 		"publisher": "Отчий дом",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Переславский Феодоровский женский монастырь",
@@ -4885,7 +4884,7 @@
 		"id": "http://zotero.org/groups/4505988/items/HIYXUQLS",
 		"type": "book",
 		"archive_location": "З-3",
-		"call-number": "С30",
+		"call-number": "З-3 С30",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Seminarium. №2 май 2020 года",
 		"issued": {
@@ -4901,7 +4900,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "З-1",
-		"call-number": "Г52",
+		"call-number": "З-1 Г52",
 		"collection-title": "Подарочные издания. Мир Православия",
 		"ISBN": "978-5-699-41816-9",
 		"language": "rus",
@@ -4946,7 +4945,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "С77",
+		"call-number": "Б-10 С77",
 		"ISBN": "978-5-906241-31-3",
 		"language": "rus",
 		"note": "Book Title: Старица Феодосия Скопинская : воспоминания самовидцев : в 2 кн\nRSLID: 01010131963\nBBK: Э372.24-643-370.8Феодосия (Косоротихина),13",
@@ -4978,7 +4977,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-2",
-		"call-number": "П94",
+		"call-number": "В-2 П94",
 		"ISBN": "978-5-907307-06-3",
 		"language": "rus",
 		"note": "RSLID: 01010321551\nBBK: Ю949.2-69,0; Ю937-69,0",
@@ -5021,7 +5020,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-4",
-		"call-number": "Т65",
+		"call-number": "Г-4 Т65",
 		"ISBN": "978-5-00009-192-0",
 		"language": "rus",
 		"note": "RSLID: 01010291505\nBBK: Э372.24-37,13; Т3(2)7,013.1",
@@ -5059,7 +5058,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Р62",
+		"call-number": "Г-3 Р62",
 		"ISBN": "978-5-91761-936-1",
 		"language": "rus",
 		"medium": "Текст",
@@ -5098,7 +5097,7 @@
 		"id": "http://zotero.org/groups/4505988/items/CYVZ2JAF",
 		"type": "book",
 		"archive_location": "К-1",
-		"call-number": "Р88",
+		"call-number": "К-1 Р88",
 		"collection-title": "Православное краеведение",
 		"number-of-pages": "128",
 		"publisher-place": "Курск",
@@ -5122,7 +5121,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-1",
-		"call-number": "Ш53",
+		"call-number": "В-1 Ш53",
 		"collection-title": "Серия \"Современное богословие\"",
 		"ISBN": "978-5-89647-268-1",
 		"language": "rus",
@@ -5162,7 +5161,7 @@
 		"type": "book",
 		"abstract": "Священномученик Петр Григорьев и обоянская \"контрреволюционная церковно-монархическая организация\"",
 		"archive_location": "К-0",
-		"call-number": "Р88",
+		"call-number": "К-0 Р88",
 		"collection-title": "Православное краеведение",
 		"number-of-pages": "80",
 		"publisher-place": "Курск",
@@ -5186,7 +5185,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-2",
-		"call-number": "С37",
+		"call-number": "В-2 С37",
 		"ISBN": "978-5-907307-95-7",
 		"language": "rus",
 		"note": "RSLID: 01010687013\nBBK: Ю91(7США)6-736.5Хорни К.,0; Ю948.43-953.6,0; Ю932.2-953.6,0; Ю957,0",
@@ -5225,7 +5224,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "М29",
+		"call-number": "Г-3 М29",
 		"ISBN": "978-5-9976-0001-3",
 		"language": "rus",
 		"note": "RSLID: 01004384354\nBBK: Ш5(2=Р)75-65я44",
@@ -5263,7 +5262,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Ш72",
+		"call-number": "Г-3 Ш72",
 		"collection-title": "Библиотека паломника",
 		"ISBN": "978-5-485-00586-3",
 		"language": "rus",
@@ -5304,7 +5303,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-2",
-		"call-number": "Б82",
+		"call-number": "Б-2 Б82",
 		"edition": "2-е изд., испр., и доп",
 		"ISBN": "978-5-89100-225-8",
 		"language": "rus",
@@ -5437,7 +5436,7 @@
 		"type": "book",
 		"abstract": "с предис. Преображенского",
 		"archive_location": "Б-3",
-		"call-number": "П61",
+		"call-number": "Б-3 П61",
 		"collection-title": "Пальмира-классика",
 		"number-of-pages": "284",
 		"publisher-place": "М, СПб",
@@ -5456,7 +5455,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "С66",
+		"call-number": "К-0 С66",
 		"ISBN": "978-5-907117-93-8",
 		"language": "rus chu",
 		"note": "RSLID: 01010386625\nBBK: Э372.24-574.8Паисий Угличский,0",
@@ -5495,7 +5494,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-3",
-		"call-number": "П28",
+		"call-number": "В-3 П28",
 		"ISBN": "5-7868-0063-6",
 		"language": "rus",
 		"medium": "Текст",
@@ -5585,7 +5584,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-3",
-		"call-number": "П59",
+		"call-number": "Б-3 П59",
 		"collection-title": "Бальзам для души",
 		"ISBN": "978-5-91761-327-7",
 		"language": "rus",
@@ -5633,7 +5632,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Д-4",
-		"call-number": "П58",
+		"call-number": "Д-4 П58",
 		"ISBN": "978-5-4469-1705-1",
 		"language": "rus",
 		"note": "RSLID: 01010391882\nBBK: Э372.24-43,088.4; Э372-41-308Иоанн Лествичник,0",
@@ -5671,7 +5670,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "П20",
+		"call-number": "Б-10 П20",
 		"language": "rus",
 		"medium": "Текст",
 		"note": "RSLID: 01005859423",
@@ -5708,7 +5707,7 @@
 		"id": "http://zotero.org/groups/4505988/items/ZHJ8QSPI",
 		"type": "book",
 		"archive_location": "Б-2",
-		"call-number": "П75",
+		"call-number": "Б-2 П75",
 		"number-of-pages": "214",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Приглашение к истории: сборник статей",
@@ -5725,7 +5724,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-8",
-		"call-number": "И90",
+		"call-number": "Б-8 И90",
 		"language": "rus",
 		"medium": "Текст",
 		"note": "RSLID: 01007132112\nBBK: Т3(5Ирн)я43; Щ103(5Ирн)я43",
@@ -5769,7 +5768,7 @@
 		"abstract": "После распада Советского Союза судьба и жизнь Дмитрия Владимировича Бранца - инженера, выпускника Московского физико-технического института, как и многих других граждан нашей страны - сильно изменилась. Хорошее образование и востребованность профессии инженера, физика и математика позволяли ему работать в престижных зарубежных научно-исследовательских центрах. Однако, не имея возможности продолжать работу, которой он занимался после института, где уже ожидались серьезные результаты, он решил стать фермером. Патриотический мотив такого выбора был очевиден. Крестьянству Россия обязана, по сути дела, всеми достижениями последних трех-четырех веков, и без его существования, по мнению Дмитрия, возрождение страны не представлялось возможным. Он принял решение сделать то, что может сам. В книге рассказывается о нелегких 17 годах жизни Дмитрия в заброшенной деревне Николо-Царевна Ярославской области",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-4",
-		"call-number": "В11",
+		"call-number": "Г-4 В11",
 		"ISBN": "978-5-6047382-5-2",
 		"language": "rus",
 		"note": "RSLID: 01011116884\nBBK: Т3(2Р-4Яр-5Пере-2Николо-Царевна)64,02",
@@ -5812,7 +5811,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "К89",
+		"call-number": "К-0 К89",
 		"ISBN": "978-5-91763-344-2",
 		"language": "rus",
 		"medium": "Текст",
@@ -5852,7 +5851,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-4",
-		"call-number": "Г94",
+		"call-number": "Г-4 Г94",
 		"language": "rus",
 		"medium": "Текст",
 		"note": "RSLID: 01000359277\nBBK: Ш5(2=Р)53-4ГумилевН.С.25я43",
@@ -5891,7 +5890,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-9",
-		"call-number": "Г35",
+		"call-number": "А-9 Г35",
 		"language": "rus",
 		"note": "RSLID: 01003630784",
 		"number-of-pages": "484",
@@ -5926,7 +5925,7 @@
 		"id": "http://zotero.org/groups/4505988/items/LTQWNXUP",
 		"type": "book",
 		"archive_location": "Б-10",
-		"call-number": "М77",
+		"call-number": "Б-10 М77",
 		"number-of-pages": "80",
 		"publisher": "СТСЛ",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -5948,7 +5947,7 @@
 		"id": "http://zotero.org/groups/4505988/items/MX9KFNMU",
 		"type": "book",
 		"archive_location": "Ц",
-		"call-number": "П55",
+		"call-number": "Ц П55",
 		"number-of-pages": "192",
 		"publisher": "Никея",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -5966,7 +5965,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-2",
-		"call-number": "И90",
+		"call-number": "А-2 И90",
 		"ISBN": "978-5-906960-45-0",
 		"language": "rus",
 		"medium": "[Текст] =",
@@ -6006,7 +6005,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-6",
-		"call-number": "Т35",
+		"call-number": "В-6 Т35",
 		"collection-title": "Классический университетский учебник / Московский гос. ун-т им. М. В. Ломоносова",
 		"edition": "3-е изд",
 		"ISBN": "978-5-211-05472-1",
@@ -6047,7 +6046,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-8.2",
-		"call-number": "К52",
+		"call-number": "Б-8.2 К52",
 		"ISBN": "978-5-691-00084-3",
 		"language": "rus",
 		"note": "RSLID: 01001791923",
@@ -6095,7 +6094,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "И75",
+		"call-number": "К-0 И75",
 		"ISBN": "978-5-94759-017-3",
 		"language": "rus",
 		"note": "RSLID: 01004072035\nBBK: Э372-4я44; Э372.21-643-340.8Иоанн Мосх.я44",
@@ -6133,7 +6132,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-0",
-		"call-number": "Х93",
+		"call-number": "Б-0 Х93",
 		"collection-title": "Studia historica",
 		"ISBN": "978-5-94457-063-5",
 		"language": "rus",
@@ -6216,7 +6215,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-8.2",
-		"call-number": "Л25",
+		"call-number": "Б-8.2 Л25",
 		"ISBN": "978-5-907211-08-7",
 		"language": "rus",
 		"note": "RSLID: 01010024430\nBBK: Т3(2)414-72,02",
@@ -6307,7 +6306,7 @@
 		"id": "http://zotero.org/groups/4505988/items/PKWXXU4N",
 		"type": "book",
 		"archive_location": "К-1",
-		"call-number": "М13",
+		"call-number": "К-1 М13",
 		"collection-title": "Серия \"Русский Афон\" вып. 3",
 		"ISBN": "978-5-91674-066-0",
 		"language": "rus",
@@ -6361,7 +6360,7 @@
 		"id": "http://zotero.org/groups/4505988/items/PN3LD4IX",
 		"type": "book",
 		"archive_location": "Г-3",
-		"call-number": "Р89",
+		"call-number": "Г-3 Р89",
 		"collection-number": "Вып. 7",
 		"collection-title": "Серия \"Русский Афон\"",
 		"ISBN": "978-5-91674-99-8",
@@ -6391,7 +6390,7 @@
 		"type": "book",
 		"abstract": "Библиогр.: с. 445-489 и в примеч. в конце глав, Указ. имен: с. 490-510",
 		"archive_location": "Б-2",
-		"call-number": "Л63",
+		"call-number": "Б-2 Л63",
 		"ISBN": "978-5-85759-327-1",
 		"language": "rus",
 		"note": "Book Title: Русское духовное и политическое присутствие в Святой Земле и на Ближнем Востоке в XIX - начале ХХ в.",
@@ -6418,7 +6417,7 @@
 		"type": "book",
 		"abstract": "Загл. обл.: Монастыри и Скиты Святой Горы Афон, Библиогр.: с. 157-158 (53 назв.)",
 		"archive_location": "К-1",
-		"call-number": "М77",
+		"call-number": "К-1 М77",
 		"edition": "[Изд. 3-е, испр. и доп.].",
 		"ISBN": "978-5-91674-116-2",
 		"language": "rus",
@@ -6564,7 +6563,7 @@
 		"type": "book",
 		"abstract": "Часть текста на исп. яз., Библиогр.: с. 30-33, в подстроч. прим. и в тексте коммент., Указ.: с. 207-215",
 		"archive_location": "Б-8",
-		"call-number": "Т28",
+		"call-number": "Б-8 Т28",
 		"collection-title": "Восточнохристианский мир сост. Г.И. Вздорнов [и др.]",
 		"language": "rus;spa",
 		"note": "Book Title: Странствия и путешествия",
@@ -6590,7 +6589,7 @@
 		"id": "http://zotero.org/groups/4505988/items/PJ3IMX29",
 		"type": "book",
 		"archive_location": "Б-8",
-		"call-number": "Б17",
+		"call-number": "Б-8 Б17",
 		"collection-title": "Восточнохристианский мир сост.: Г.И. Вздорнов [и др.]",
 		"ISBN": "978-5-85759-356-1",
 		"language": "rus",
@@ -6699,7 +6698,7 @@
 		"type": "book",
 		"abstract": "Авт. также на англ. яз.: Ya.E. Zelenina, Текст парал. на рус. и англ. яз., Библиогр. в подстроч. прим.",
 		"archive_location": "З-48",
-		"call-number": "З-48",
+		"call-number": "З48",
 		"ISBN": "978-5-91674-018-9",
 		"language": "rus;eng",
 		"note": "Book Title: От портрета к иконе очерки русской иконографии XVIII - начала ХХ века",
@@ -6754,7 +6753,7 @@
 		"id": "http://zotero.org/groups/4505988/items/EQQPKPAN",
 		"type": "book",
 		"archive_location": "Б-8",
-		"call-number": "С42",
+		"call-number": "Б-8 С42",
 		"collection-title": "Восточнохристианский мир сост.: Г.И. Вздорнов [и др.]",
 		"ISBN": "978-5-85759-434-6",
 		"language": "rus",
@@ -6810,7 +6809,7 @@
 		"type": "book",
 		"abstract": "Библиогр.: с. 170-174",
 		"archive_location": "Б-2",
-		"call-number": "Г37",
+		"call-number": "Б-2 Г37",
 		"collection-title": "Серия \"Русский Афон\" сост.: К. Вах [и др.] вып. 7",
 		"ISBN": "978-5-91674-103-2",
 		"language": "rus",
@@ -6839,7 +6838,7 @@
 		"type": "book",
 		"abstract": "Приложение к журналу \"Фома\", вып. 30",
 		"archive_location": "Г-4",
-		"call-number": "У50",
+		"call-number": "Г-4 У50",
 		"collection-title": "Настя и Никита детская литературная серия рассказы, сказки, стихи, биографии, знания, путешествия",
 		"ISBN": "978-5-91786-030-5",
 		"language": "rus",
@@ -6896,7 +6895,7 @@
 		"type": "book",
 		"abstract": "В надзаг. также: Императ. правосл. палест. о-во, Ин-т рос. истории РАН",
 		"archive_location": "Б-2",
-		"call-number": "Р76",
+		"call-number": "Б-2 Р76",
 		"ISBN": "978-5-7133-1062-2",
 		"language": "rus",
 		"note": "Book Title: Россия в Святой Земле Док. и материалы [В 2 т.]",
@@ -7145,7 +7144,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Ц",
-		"call-number": "Н76",
+		"call-number": "Ц Н76",
 		"ISBN": "978-5-7429-0469-4",
 		"language": "rus",
 		"medium": "Текст",
@@ -7288,7 +7287,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-3",
-		"call-number": "Е92",
+		"call-number": "Б-3 Е92",
 		"collection-title": "Творения [В 2 т.] Святой Ефрем Сирин",
 		"ISBN": "978-5-86809-074-5",
 		"language": "rus",
@@ -7321,7 +7320,7 @@
 		"abstract": "Всегда ли музыка была тем языком, на котором люди обращались к Богу, размышляя о жизни, смерти и бессмертии, или же она стала им в определенный исторический момент? Почему среди значимых фигур культуры новейших времен так много композиторов — чудаков и безумцев? Быть может, сама наша цивилизация, не дождавшись желанного конца света, сошла с ума, а для тех, кто боится ее безумия, была создана массовая культура? Для тех, кто не боится, кто любит вдумчивое чтение и готов потратить время, слушая «сложную» музыку в поисках мудрой простоты смысла, написана эта книга.",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "П-1.2",
-		"call-number": "Н31",
+		"call-number": "П-1.2 Н31",
 		"collection-title": "Бог и культура",
 		"ISBN": "978-5-907307-24-7",
 		"language": "rus",
@@ -7496,7 +7495,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "А76",
+		"call-number": "Б-10 А76",
 		"ISBN": "978-5-7868-0001-3",
 		"language": "rus",
 		"note": "RSLID: 01010919227\nBBK: Э372.24-637.21-372.308Антоний Сурожский,0",
@@ -7534,7 +7533,7 @@
 		"id": "http://zotero.org/groups/4505988/items/5BAELQGE",
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
-		"archive_location": "Б10",
+		"archive_location": "Б-10",
 		"call-number": "А87",
 		"collection-title": "Люди божии",
 		"ISBN": "978-5-7533-1150-4",
@@ -7575,7 +7574,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "П44",
+		"call-number": "Б-10 П44",
 		"ISBN": "978-5-7429-0011-5",
 		"language": "rus",
 		"note": "RSLID: 01001729799",
@@ -7611,7 +7610,7 @@
 		"id": "http://zotero.org/groups/4505988/items/RZHCSG8N",
 		"type": "book",
 		"archive_location": "К-3",
-		"call-number": "Р69",
+		"call-number": "К-3 Р69",
 		"number-of-pages": "62",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Два дневника святой мученицы и страстотерпицы царицы Александры о значении семьи и о семейной жизни",
@@ -7632,7 +7631,7 @@
 		"id": "http://zotero.org/groups/4505988/items/UD7JKX2Y",
 		"type": "book",
 		"archive_location": "К-3",
-		"call-number": "С42",
+		"call-number": "К-3 С42",
 		"number-of-pages": "48",
 		"publisher": "М.: Типография Т-ва И.Д. Сытина.",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -7694,7 +7693,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "АБВ",
-		"call-number": "А61",
+		"call-number": "АБВ А61",
 		"language": "rus",
 		"note": "RSLID: 01002718232\nBBK: Э372.24-574.8Амвросий,13",
 		"publisher": "Козел. Введ. Оптина Пустынь",
@@ -7728,7 +7727,7 @@
 		"id": "http://zotero.org/groups/4505988/items/UK5VWK5Y",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "46",
 		"publisher": "Подиум",
 		"publisher-place": "Москва",
@@ -7784,7 +7783,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "В53",
+		"call-number": "Г-3 В53",
 		"language": "rus",
 		"note": "RSLID: 01004117314\nBBK: Ш5(2=Р)75-65я44",
 		"number-of-pages": "239",
@@ -7822,7 +7821,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-5",
-		"call-number": "И46",
+		"call-number": "В-5 И46",
 		"language": "rus",
 		"medium": "Текст",
 		"note": "RSLID: 01009572760\nBBK: Ю3(2)6-638Ильин И.А.-06",
@@ -7861,7 +7860,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Ж",
-		"call-number": "М48",
+		"call-number": "Ж М48",
 		"ISBN": "978-5-905793-63-9",
 		"language": "rus",
 		"medium": "Текст",
@@ -7905,7 +7904,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-6.1",
-		"call-number": "В19",
+		"call-number": "В-6.1 В19",
 		"collection-title": "Серия \"Азбука милосердия\": методические и справочные пособия",
 		"ISBN": "978-5-91173-252-3",
 		"language": "rus",
@@ -7946,7 +7945,7 @@
 		"type": "book",
 		"abstract": "Митрополит Антоний Сурожский (1914-2003) не нуждается в представлении: его книги уже не одно десятилетие - среди самых востребованных в секторе православной литературы. В своих беседах Владыка часто упоминает эпизоды из собственной жизни, которая по сути охватила весь XX век. Несомненно, многочисленные его читатели будут рады познакомиться с более полной картиной его жизненного пути\nРелигия -- Христианство -- Православие -- Русская православная церковь -- Организация церкви -- Духовенство -- Высшее духовенство -- 20 в. -- Биографии -- Антоний (Блум, Андрей Борисович (1914-2003) - митрополит Сурожский",
 		"archive_location": "Б-10",
-		"call-number": "П12",
+		"call-number": "Б-10 П12",
 		"ISBN": "978-5-9906759-9-5",
 		"language": "русский",
 		"number-of-pages": "527",
@@ -7972,7 +7971,7 @@
 		"id": "http://zotero.org/groups/4505988/items/ZFMKRIRW",
 		"type": "book",
 		"archive_location": "А-3",
-		"call-number": "З-64",
+		"call-number": "З64",
 		"number-of-pages": "30",
 		"publisher-place": "Фессалоники",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -7995,7 +7994,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-8.2",
-		"call-number": "К21",
+		"call-number": "Б-8.2 К21",
 		"language": "rus",
 		"medium": "Текст",
 		"note": "RSLID: 01008113774\nBBK: Т3(2)4,02",
@@ -8076,7 +8075,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-9",
-		"call-number": "М36",
+		"call-number": "Б-9 М36",
 		"collection-title": "Открывая православие",
 		"ISBN": "978-5-91761-867-8",
 		"language": "rus",
@@ -8116,7 +8115,7 @@
 		"id": "http://zotero.org/groups/4505988/items/ZR3TBJ9D",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж71",
+		"call-number": "К-0 Ж71",
 		"note": "Репринт издания 1889",
 		"number-of-pages": "61",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8126,7 +8125,7 @@
 		"id": "http://zotero.org/groups/4505988/items/NWPAIY4N",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "152",
 		"publisher": "СТСЛ",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8143,7 +8142,7 @@
 		"id": "http://zotero.org/groups/4505988/items/QINSWHYY",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"note": "Два экземпляра",
 		"number-of-pages": "10",
 		"number-of-volumes": "2",
@@ -8162,7 +8161,7 @@
 		"id": "http://zotero.org/groups/4505988/items/VYG7G5AH",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "9",
 		"publisher": "СПб",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8179,7 +8178,7 @@
 		"id": "http://zotero.org/groups/4505988/items/M299I958",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "49",
 		"publisher": "Киево-печерская Лавра",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8196,7 +8195,7 @@
 		"id": "http://zotero.org/groups/4505988/items/DM53KRRR",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "70",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Житие преподобного Герасима Болдинского",
@@ -8212,7 +8211,7 @@
 		"id": "http://zotero.org/groups/4505988/items/K8SKTU2S",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "9",
 		"publisher": "СПб",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8229,7 +8228,7 @@
 		"id": "http://zotero.org/groups/4505988/items/V82D9RFP",
 		"type": "book",
 		"archive_location": "К-1",
-		"call-number": "Ж67",
+		"call-number": "К-1 Ж67",
 		"note": "Репринт издания 1889",
 		"number-of-pages": "64",
 		"publisher": "Переславль-Залесский",
@@ -8247,7 +8246,7 @@
 		"id": "http://zotero.org/groups/4505988/items/QG4KSZKS",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "144",
 		"publisher": "СТСЛ",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8264,7 +8263,7 @@
 		"id": "http://zotero.org/groups/4505988/items/8B7F86L9",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "48",
 		"publisher": "Оптина",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8281,7 +8280,7 @@
 		"id": "http://zotero.org/groups/4505988/items/METHLIZ2",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "26",
 		"publisher-place": "Решма",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8298,7 +8297,7 @@
 		"id": "http://zotero.org/groups/4505988/items/DZR2Z3K7",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "80",
 		"publisher": "Православное слово",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8315,7 +8314,7 @@
 		"id": "http://zotero.org/groups/4505988/items/UM3H3RZJ",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "176",
 		"publisher-place": "Москва",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8332,7 +8331,7 @@
 		"id": "http://zotero.org/groups/4505988/items/3BZEVNSQ",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "80",
 		"publisher": "Свято-Троице-Серафимо-Дивеевский женский монастырь",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8348,7 +8347,7 @@
 		"type": "book",
 		"abstract": "Репринт",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "182",
 		"publisher": "СПб",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8358,7 +8357,7 @@
 		"id": "http://zotero.org/groups/4505988/items/7XCC6Q28",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "32",
 		"publisher": "СТСЛ",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8376,7 +8375,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "З-3",
-		"call-number": "Т30",
+		"call-number": "З-3 Т30",
 		"language": "rus",
 		"note": "Book Title: Текст\nRSLID: 01010860298\nBBK: Ш102.23р.я431(0)",
 		"number-of-pages": "411",
@@ -8450,7 +8449,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "М79",
+		"call-number": "Г-3 М79",
 		"collection-title": "Государи Руси Великой",
 		"ISBN": "978-5-270-01853-5",
 		"language": "rus",
@@ -8489,7 +8488,7 @@
 		"id": "http://zotero.org/groups/4505988/items/ZRJMWYZM",
 		"type": "book",
 		"archive_location": "Б-10",
-		"call-number": "М15",
+		"call-number": "Б-10 М15",
 		"number-of-pages": "248",
 		"publisher-place": "Можайск",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8504,7 +8503,7 @@
 		"id": "http://zotero.org/groups/4505988/items/Z5GWJGL2",
 		"type": "book",
 		"archive_location": "Б-10",
-		"call-number": "М15",
+		"call-number": "Б-10 М15",
 		"number-of-pages": "241",
 		"publisher-place": "Можайск",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8527,7 +8526,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-0",
-		"call-number": "К38",
+		"call-number": "К-0 К38",
 		"edition": "Репринт. изд",
 		"language": "rus",
 		"note": "RSLID: 01001614579",
@@ -8560,7 +8559,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-2",
-		"call-number": "Л47",
+		"call-number": "В-2 Л47",
 		"ISBN": "978-5-907307-02-5",
 		"language": "rus",
 		"note": "RSLID: 01010382168\nBBK: Ю983.52-69,0; Ю948.45-734,0",
@@ -8599,7 +8598,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-2",
-		"call-number": "Л78",
+		"call-number": "В-2 Л78",
 		"collection-title": "Путь семейной жизни",
 		"ISBN": "978-5-91761-587-5",
 		"language": "rus",
@@ -8643,7 +8642,7 @@
 		"id": "http://zotero.org/groups/4505988/items/CD7882KM",
 		"type": "book",
 		"archive_location": "К-0",
-		"call-number": "Ж74",
+		"call-number": "К-0 Ж74",
 		"number-of-pages": "80",
 		"publisher": "Свято-Троицкий Данилов мужской монастырь",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -8660,7 +8659,7 @@
 		"id": "http://zotero.org/groups/4505988/items/8467F8KL",
 		"type": "book",
 		"archive_location": "А-1",
-		"call-number": "М51",
+		"call-number": "А-1 М51",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Библия и литература",
 		"author": [
@@ -8720,7 +8719,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-8.2",
-		"call-number": "К89",
+		"call-number": "Б-8.2 К89",
 		"collection-title": "Государи Руси Великой",
 		"ISBN": "978-5-270-01808-5",
 		"language": "rus",
@@ -8805,7 +8804,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "З-3",
-		"call-number": "К89",
+		"call-number": "З-3 К89",
 		"ISBN": "978-5-903004-33-1",
 		"language": "rus eng",
 		"note": "RSLID: 01004627645\nBBK: С.я431(0)",
@@ -8847,7 +8846,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "М28",
+		"call-number": "Б-10 М28",
 		"collection-title": "Библиотека нравственного воспитания Н. В. Маслова",
 		"edition": "Изд. 6-е, доп",
 		"ISBN": "978-5-98106-018-2",
@@ -8887,7 +8886,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-8.2",
-		"call-number": "М90",
+		"call-number": "Б-8.2 М90",
 		"collection-title": "Государи Руси Великой",
 		"ISBN": "978-5-270-01860-3",
 		"language": "rus",
@@ -8964,7 +8963,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-8.2",
-		"call-number": "К78",
+		"call-number": "Б-8.2 К78",
 		"collection-title": "Государи Руси Великой",
 		"ISBN": "978-5-270-01776-7",
 		"language": "rus",
@@ -9004,7 +9003,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-8.2",
-		"call-number": "К72",
+		"call-number": "Б-8.2 К72",
 		"ISBN": "978-5-244-00742-8",
 		"language": "rus",
 		"note": "RSLID: 01001663420",
@@ -9083,7 +9082,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Д69",
+		"call-number": "Г-3 Д69",
 		"ISBN": "978-5-91173-475-6",
 		"language": "rus",
 		"medium": "Текст",
@@ -9117,7 +9116,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Л-49",
+		"call-number": "Л49",
 		"language": "rus",
 		"medium": "Текст",
 		"note": "RSLID: 01007153061\nBBK: Ш5(2=Р)51-65я44; Ш9(2)6=Р52-5я44; Щ897.58(2)Андроникова,И.Л.",
@@ -9160,7 +9159,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-5",
-		"call-number": "Д24",
+		"call-number": "Б-5 Д24",
 		"edition": "3-е изд., доп. и перераб",
 		"ISBN": "978-5-88213-050-2",
 		"language": "rus",
@@ -9200,7 +9199,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г58",
+		"call-number": "Г-3 Г58",
 		"collection-title": "Классики и современники",
 		"language": "rus",
 		"note": "RSLID: 01001231857",
@@ -9239,7 +9238,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г41",
+		"call-number": "Г-3 Г41",
 		"language": "rus",
 		"note": "container-title: Сочинения [Текст] : В 9 т. / Под общ. ред. В. П. Волгина [и др.] ; [Вступ. статья Я. Е. Эльсберга]\nRSLID: 01005629452",
 		"number-of-pages": "691",
@@ -9273,7 +9272,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г41",
+		"call-number": "Г-3 Г41",
 		"language": "rus",
 		"note": "container-title: Сочинения [Текст] : В 9 т. / Под общ. ред. В. П. Волгина [и др.] ; [Вступ. статья Я. Е. Эльсберга]\nRSLID: 01005629453",
 		"number-of-pages": "770",
@@ -9307,7 +9306,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г41",
+		"call-number": "Г-3 Г41",
 		"language": "rus",
 		"note": "container-title: Сочинения [Текст] : В 9 т. / Под общ. ред. В. П. Волгина [и др.] ; [Вступ. статья Я. Е. Эльсберга]\nRSLID: 01005629454",
 		"number-of-pages": "491",
@@ -9341,7 +9340,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г67",
+		"call-number": "Г-3 Г67",
 		"language": "rus",
 		"note": "container-title: Собрание сочинений [Текст] : В 5 т. / [Вступ. статья К. Симонова] ; [Критико-биогр. очерк и примеч. Г. Колесниковой]\nRSLID: 01005629512",
 		"number-of-pages": "526",
@@ -9376,7 +9375,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г67",
+		"call-number": "Г-3 Г67",
 		"language": "rus",
 		"note": "container-title: Собрание сочинений [Текст] : В 5 т. / [Вступ. статья К. Симонова] ; [Критико-биогр. очерк и примеч. Г. Колесниковой]\nRSLID: 01005629511",
 		"number-of-pages": "611",
@@ -9410,7 +9409,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г67",
+		"call-number": "Г-3 Г67",
 		"language": "rus",
 		"note": "container-title: Собрание сочинений [Текст] : В 5 т. / [Вступ. статья К. Симонова] ; [Критико-биогр. очерк и примеч. Г. Колесниковой]\nRSLID: 01005629514",
 		"number-of-pages": "527",
@@ -9480,7 +9479,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-3",
-		"call-number": "Г58",
+		"call-number": "Г-3 Г58",
 		"collection-title": "Классики и современники",
 		"language": "rus",
 		"note": "RSLID: 01001193946",
@@ -9648,7 +9647,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-9",
-		"call-number": "К43",
+		"call-number": "А-9 К43",
 		"ISBN": "978-5-7789-0094-3",
 		"language": "rus",
 		"note": "RSLID: 01000687907\nBBK: Э372.24-462.2я44",
@@ -9731,7 +9730,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "Б51",
+		"call-number": "Б-10 Б51",
 		"collection-title": "Радостная серия",
 		"ISBN": "978-5-91761-857-9",
 		"language": "rus",
@@ -9772,7 +9771,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "В-6.1",
-		"call-number": "М54",
+		"call-number": "В-6.1 М54",
 		"ISBN": "978-5-904269-89-0",
 		"language": "rus",
 		"medium": "Текст",
@@ -9815,7 +9814,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "В15",
+		"call-number": "Б-10 В15",
 		"ISBN": "978-5-7302-0392-1",
 		"language": "rus",
 		"note": "RSLID: 01000711681\nBBK: Э372.24-574.3,0",
@@ -9847,7 +9846,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Г-0",
-		"call-number": "В67",
+		"call-number": "Г-0 В67",
 		"ISBN": "978-5-901836-01-9",
 		"language": "rus",
 		"note": "RSLID: 01000726093\nBBK: Ш70я7",
@@ -9886,7 +9885,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "АБВ",
-		"call-number": "Л84",
+		"call-number": "АБВ Л84",
 		"ISBN": "978-5-222-01795-1",
 		"language": "rus",
 		"note": "RSLID: 01000706469\nBBK: Э372.24-422.2,0; Э37-12,0; Э212,0",
@@ -9965,7 +9964,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-10",
-		"call-number": "П12",
+		"call-number": "Б-10 П12",
 		"ISBN": "978-5-8305-0030-2",
 		"language": "rus",
 		"note": "RSLID: 01000967421\nBBK: Э372.24-574.3,0",
@@ -10004,7 +10003,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Д-4",
-		"call-number": "П38",
+		"call-number": "Д-4 П38",
 		"collection-title": "Библиотечка воскресной школы",
 		"edition": "2. изд., доп. и перераб",
 		"ISBN": "978-5-93688-002-5",
@@ -10048,7 +10047,7 @@
 		"id": "http://zotero.org/groups/4505988/items/PQFCUXQA",
 		"type": "book",
 		"archive_location": "АБВ",
-		"call-number": "П41",
+		"call-number": "АБВ П41",
 		"number-of-pages": "712",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Полное собраие сочинения протоиерея Иоанна Ильича Сергиева, т. 7. Репринтное издание.",
@@ -10064,7 +10063,7 @@
 		"id": "http://zotero.org/groups/4505988/items/YYR4RHPE",
 		"type": "book",
 		"archive_location": "Г-3",
-		"call-number": "Н48",
+		"call-number": "Г-3 Н48",
 		"number-of-pages": "480",
 		"publisher": "Правда",
 		"publisher-place": "Москва",
@@ -10108,7 +10107,7 @@
 		"id": "http://zotero.org/groups/4505988/items/D9F7QWLW",
 		"type": "book",
 		"archive_location": "А-9",
-		"call-number": "Ц44",
+		"call-number": "А-9 Ц44",
 		"publisher": "Отчий дом",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Неуслышанные голоса. Церковь и демократия",
@@ -10124,7 +10123,7 @@
 		"id": "http://zotero.org/groups/4505988/items/MEECU5KS",
 		"type": "book",
 		"archive_location": "К-3",
-		"call-number": "П48",
+		"call-number": "К-3 П48",
 		"publisher": "общество свт. Василия Великого",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
 		"title": "Покаяние и исповедь на пороге XXI века.",
@@ -10160,7 +10159,7 @@
 		"id": "http://zotero.org/groups/4505988/items/C4ZHUP9X",
 		"type": "book",
 		"archive_location": "А-8",
-		"call-number": "Х98",
+		"call-number": "А-8 Х98",
 		"number-of-pages": "144",
 		"publisher": "Никея",
 		"source": "Библиотека Свято-Троицкого Данилова монастыря",
@@ -10202,7 +10201,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "А-4",
-		"call-number": "Ш61",
+		"call-number": "А-4 Ш61",
 		"ISBN": "978-5-89101-024-6",
 		"language": "rus",
 		"note": "RSLID: 01001775370",
@@ -10241,7 +10240,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "К-3",
-		"call-number": "Ф51",
+		"call-number": "К-3 Ф51",
 		"language": "rus",
 		"note": "RSLID: 01001652502",
 		"number-of-pages": "202",
@@ -10279,7 +10278,7 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"archive_location": "Б-2",
-		"call-number": "Т70",
+		"call-number": "Б-2 Т70",
 		"collection-number": "3",
 		"collection-title": "Recueil d'études ortlrodoxes",
 		"language": "rus",
@@ -10395,9 +10394,10 @@
 		"id": "http://zotero.org/groups/4505988/items/HUTPSHXE",
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-3 И43 00021",
 		"language": "rus",
 		"note": "RSLID: 01001633212",
-		"number-of-pages": "140",
+		"number-of-pages": "144",
 		"publisher": "Православ. беседа Кн. дом",
 		"publisher-place": "Москва",
 		"source": "Российская Государственная Библиотека",
@@ -10505,7 +10505,7 @@
 		"id": "http://zotero.org/groups/4505988/items/7GQRVZCA",
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
-		"call-number": "FB 2 91-1/219; FB 2 91-1/220",
+		"call-number": "К-0 В78 00273",
 		"ISBN": "978-5-270-01448-3",
 		"language": "rus",
 		"note": "RSLID: 01001575487",
@@ -10513,12 +10513,12 @@
 		"publisher": "Современник",
 		"publisher-place": "Москва",
 		"source": "Российская Государственная Библиотека",
-		"title": "!!!!CALL NUMBER!! Божий избранник: Крест. путь Святителя Тихона, патриарха Московского и всея России",
+		"title": "Божий избранник: Крест. путь Святителя Тихона, патриарха Московского и всея России",
 		"title-short": "Божий избранник",
 		"URL": "https://search.rsl.ru/ru/record/01001575487",
 		"author": [
 			{
-				"family": "А!Вострышев",
+				"family": "Вострышев",
 				"given": "Михаил Иванович"
 			}
 		],
@@ -10544,22 +10544,14 @@
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
 		"call-number": "К-1 Ч84 00300",
-		"ISBN": "978-5-93618-164-1",
 		"language": "rus",
 		"note": "RSLID: 01004352936\nBBK: Э372.24я6; Э372.24-421.14,0",
-		"number-of-pages": "630",
-		"publisher": "ИНЭС",
-		"publisher-place": "Москва",
-		"source": "Российская Государственная Библиотека",
-		"title": "А!!!!!Святая Русь: под Покровом Пресвятой Богородицы",
+		"number-of-pages": "800",
+		"publisher": "Ново-голутвин монастырь",
+		"publisher-place": "Коломна",
+		"title": "Чудотворные иконы Матери Божией: под Покровом Пресвятой Богородицы",
 		"title-short": "Святая Русь",
 		"URL": "https://search.rsl.ru/ru/record/01004352936",
-		"author": [
-			{
-				"family": "А!!!!Кузык",
-				"given": "Борис Николаевич"
-			}
-		],
 		"accessed": {
 			"date-parts": [
 				[
@@ -10572,7 +10564,7 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2009"
+					"1993"
 				]
 			]
 		}
@@ -12178,7 +12170,7 @@
 		"publisher": "YMCA-press",
 		"publisher-place": "Париж",
 		"source": "Российская Государственная Библиотека",
-		"title": "Очерки по истории русской церкви",
+		"title": "Очерки по истории русской церкви. Т. I",
 		"URL": "https://search.rsl.ru/ru/record/01002441289",
 		"author": [
 			{
@@ -12440,14 +12432,14 @@
 		"id": "http://zotero.org/groups/4505988/items/U5ZGW7VX",
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
-		"call-number": "FBKHM 10 86-22/79; FBKHM 10 86-22/80; FBKHM 10 86-22/81",
+		"call-number": "Б-8.2 П76 00252",
 		"language": "rus",
 		"note": "RSLID: 01001328461",
 		"number-of-pages": "541",
 		"publisher": "Лениздат",
 		"publisher-place": "Ленинград",
 		"source": "Российская Государственная Библиотека",
-		"title": "!!!!!!!!!!!!!!call number !!!!!!!!Россия XV-XVII вв. глазами иностранцев",
+		"title": "Россия XV-XVII вв. глазами иностранцев",
 		"URL": "https://search.rsl.ru/ru/record/01001328461",
 		"editor": [
 			{
@@ -12663,7 +12655,7 @@
 		"type": "book",
 		"abstract": "Настоящая душеполезная книга справедливо носит данное ей наименование: \"Невидимая брань\". Воины, ведущие борьбу в этой невидимой брани, суть все христиане и военачальником их изображается Господь наш Иисус Христос",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
-		"call-number": "А-51 Н63 00265",
+		"call-number": "А-5.1 Н63 00265",
 		"ISBN": "978-5-7789-0158-2",
 		"language": "rus",
 		"note": "RSLID: 01002390140\nBBK: Э372.24-43,0; Э372.24-422.26,0",
@@ -13413,44 +13405,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/4505988/items/UFIBU6CV",
-		"type": "book",
-		"archive": "Книги (изданные с 1831 г. по настоящее время)",
-		"call-number": "FB 2 09-46/182; FB 2 09-46/181",
-		"ISBN": "978-5-93618-164-1",
-		"language": "rus",
-		"note": "RSLID: 01004352936\nBBK: Э372.24я6; Э372.24-421.14,0",
-		"number-of-pages": "630",
-		"publisher": "ИНЭС",
-		"publisher-place": "Москва",
-		"source": "Российская Государственная Библиотека",
-		"title": "Святая Русь: под Покровом Пресвятой Богородицы",
-		"title-short": "Святая Русь",
-		"URL": "https://search.rsl.ru/ru/record/01004352936",
-		"author": [
-			{
-				"family": "Кузык",
-				"given": "Борис Николаевич"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2026",
-					6,
-					16
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2009"
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/4505988/items/RJSUYMZF",
 		"type": "book",
 		"archive": "Книги (изданные с 1831 г. по настоящее время)",
@@ -13649,6 +13603,2614 @@
 			"date-parts": [
 				[
 					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/B5HEDNTU",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-0 С92 00122",
+		"collection-title": "На страже веры",
+		"ISBN": "978-5-7533-1338-6",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01008913664\nBBK: Э372.24-643-370.8Фамарь (Марджанова),0",
+		"number-of-pages": "142",
+		"publisher": "Изд-во Сретенского монастыря",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Схиигумения Фамарь (Марджанова)",
+		"URL": "https://search.rsl.ru/ru/record/01008913664",
+		"editor": [
+			{
+				"family": "Рожнева",
+				"given": "Ольга Леонидовна"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/VLE5M896",
+		"type": "book",
+		"call-number": "К-0 А86 00115",
+		"title": "Краткое жизнеописание святого владыки николая",
+		"author": [
+			{
+				"family": "Артемий (Радосавлевич), еп.",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/FRH3YVLV",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-0 А71 00133",
+		"ISBN": "978-5-98597-543-7",
+		"language": "rus",
+		"note": "RSLID: 01012688482\nBBK: Ш5(2=Р)75-644",
+		"number-of-pages": "256",
+		"publisher": "Проспект",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Уроки отца протоиерея Павла Ансимова, новомученика Российского",
+		"URL": "https://search.rsl.ru/ru/record/01012688482",
+		"author": [
+			{
+				"family": "Ансимов",
+				"given": "Георгий Павлович"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/T4K7I926",
+		"type": "book",
+		"call-number": "К-0 И30 00126",
+		"publisher-place": "Москва",
+		"title": "иеросхимонах Амвросий, старец Оптиной Пустыни",
+		"issued": {
+			"date-parts": [
+				[
+					"1892"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/SDEDA4IC",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-0 Н74 00121",
+		"language": "rus",
+		"note": "RSLID: 01010318367\nBBK: Э372.24-574.3,0; Э372.24-647.2,0",
+		"number-of-pages": "30",
+		"publisher": "Лето",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Новомученики Московского Новодевичьего монастыря",
+		"URL": "https://search.rsl.ru/ru/record/01010318367",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/LTWTVGMG",
+		"type": "book",
+		"call-number": "К-0 П12 00124",
+		"number-of-pages": "240",
+		"publisher": "Свет Афона",
+		"publisher-place": "Москва",
+		"title": "Отцы-святогорцы и святогорские истории",
+		"author": [
+			{
+				"family": "Паисий Святогорец, старец",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/P2PL3AES",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-0 С24 00104",
+		"number-of-pages": "16",
+		"publisher": "Изд. Псковского храма Александра Невского",
+		"publisher-place": "Псков",
+		"source": "Российская Государственная Библиотека",
+		"title": "Святая равноапостольная великая княгиня Российская Ольга",
+		"URL": "https://search.rsl.ru/ru/record/01008108840",
+		"editor": [
+			{
+				"family": "Тэор",
+				"given": "Олег Гаясович"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/2D7Q9CBZ",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-0 С24 00103",
+		"note": "RSLID: 01008108840\nBBK: Э372.24-574.8Ольга,0",
+		"number-of-pages": "16",
+		"publisher": "Изд. Псковского храма Александра Невского",
+		"publisher-place": "Псков",
+		"source": "Российская Государственная Библиотека",
+		"title": "Святая равноапостольная великая княгиня Российская Ольга",
+		"URL": "https://search.rsl.ru/ru/record/01008108840",
+		"editor": [
+			{
+				"family": "Тэор",
+				"given": "Олег Гаясович"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/FYBHTNC7",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 Б24 00063",
+		"collection-title": "Афонская традиция. XXI век",
+		"ISBN": "978-5-907661-10-3",
+		"language": "rus",
+		"note": "RSLID: 01011626054\nBBK: Э372.24-43,0; Э372.24-637.22-372.408Сергий (Баранов),0",
+		"number-of-pages": "519",
+		"publisher": "Никея",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Мой Бог: о бесконечной любви, доверии и духовной жизни: [12+]",
+		"title-short": "Мой Бог",
+		"URL": "https://search.rsl.ru/ru/record/01011626054",
+		"author": [
+			{
+				"family": "Баранов",
+				"given": "Сергей Николаевич"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/IPA8KL94",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 Б24 00062",
+		"collection-title": "Афонская традиция. XXI век",
+		"ISBN": "978-5-907661-10-3",
+		"language": "rus",
+		"note": "RSLID: 01011626054\nBBK: Э372.24-43,0; Э372.24-637.22-372.408Сергий (Баранов),0",
+		"number-of-pages": "519",
+		"publisher": "Никея",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Мой Бог: о бесконечной любви, доверии и духовной жизни: [12+]",
+		"title-short": "Мой Бог",
+		"URL": "https://search.rsl.ru/ru/record/01011626054",
+		"author": [
+			{
+				"family": "Баранов",
+				"given": "Сергей Николаевич"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/WNSAQYL8",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 П72 00100",
+		"ISBN": "978-5-00127-425-4",
+		"language": "rus",
+		"note": "RSLID: 01012195788\nBBK: Э372.24-431.6,0; Э37-431.6,0",
+		"number-of-pages": "669",
+		"publisher": "Сибирская благозвонница",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Преподобных отцов Варсонофия и Иоанна руководство к духовной жизни в ответах на вопрошения учеников: 12+",
+		"title-short": "Преподобных отцов Варсонофия и Иоанна руководство к духовной жизни в ответах на вопрошения учеников",
+		"URL": "https://search.rsl.ru/ru/record/01012195788",
+		"author": [
+			{
+				"family": "Варсонофий Великий",
+				"given": ""
+			},
+			{
+				"family": "Фомина",
+				"given": "Е. О."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/WYE6V3US",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 М75 00096",
+		"ISBN": "978-5-7877-0010-7",
+		"language": "rus",
+		"note": "RSLID: 01000647591\nBBK: Э372.24-503.110,0",
+		"number-of-pages": "126",
+		"publisher": "Синтагма",
+		"publisher-place": "Б.м",
+		"source": "Российская Государственная Библиотека",
+		"title": "Молитвенные правила чтомые за пропущенные праздничные богослужения",
+		"URL": "https://search.rsl.ru/ru/record/01000647591",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/6MBB4NSM",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 М17 00097",
+		"language": "rus",
+		"note": "RSLID: 01006806129\nBBK: Э372-19,0",
+		"number-of-pages": "38",
+		"publisher": "б. и.",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Как победить уныние (по творениям святых отцов)",
+		"author": [
+			{
+				"family": "Максимов Георгий, диак.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/HKUC6LZW",
+		"type": "book",
+		"call-number": "А-5 М17 00113",
+		"number-of-pages": "40",
+		"source": "Библиотека Свято-Троицкого Данилова монастыря",
+		"title": "Как справиться с болезнью по указанию Слова Божия и святых отцов",
+		"author": [
+			{
+				"literal": "Максимов Георгий, диак."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/VZVNBBDH",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 К59 00094",
+		"ISBN": "978-5-85134-005-5",
+		"language": "rus",
+		"note": "RSLID: 01000754117\nBBK: Э372-64,0; Э372.31-64,0",
+		"number-of-pages": "288",
+		"publisher": "Рус. Хронографъ",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Превыше поста и молитвы: О подвиге послушания и награде за него",
+		"title-short": "Превыше поста и молитвы",
+		"URL": "https://search.rsl.ru/ru/record/01000754117",
+		"author": [
+			{
+				"family": "Козма )Палеоянис), иером.",
+				"given": ""
+			},
+			{
+				"family": "Севериненко",
+				"given": "Алексей"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/T725NGG4",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 С71 00118",
+		"collection-title": "Отечник; N 1",
+		"language": "rus",
+		"note": "RSLID: 01002128470",
+		"number-of-pages": "126",
+		"publisher": "Сестричество во имя преподобномученицы великой княгини Елизаветы Отчий дом",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Спасение в миру: Извлечения из духов. наставлений, поучений отцов и учителей церкви",
+		"title-short": "Спасение в миру",
+		"URL": "https://search.rsl.ru/ru/record/01002128470",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/RGUPMQ63",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 О74 00117",
+		"ISBN": "978-5-86809-067-7",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01000587961\nBBK: Э372.24-503.263,0",
+		"number-of-pages": "125",
+		"publisher": "Отчий дом",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Путем покаяния",
+		"URL": "https://search.rsl.ru/ru/record/01000587961",
+		"author": [
+			{
+				"family": "Алексий (Осипов), прот.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/GFCIHIII",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 Т46 00116",
+		"ISBN": "978-5-905983-28-3",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01006611084\nBBK: Э372.24-647.2,0",
+		"number-of-pages": "318",
+		"publisher": "Духовное преображение",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "О монашестве без тайн: из переписки с духовными чадами",
+		"title-short": "О монашестве без тайн",
+		"URL": "https://search.rsl.ru/ru/record/01006611084",
+		"author": [
+			{
+				"family": "Тихон (Агриков), архим.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/V8JB4LI3",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 Д56 00090",
+		"collection-title": "Добротолюбие [В 5 т. Перевод]",
+		"language": "rus",
+		"note": "container-title: Добротолюбие : Перевод]\nRSLID: 01001675234",
+		"number-of-pages": "440",
+		"publisher": "Свято-Троиц. Сергиева лавра",
+		"publisher-place": "Сергиев Посад",
+		"source": "Российская Государственная Библиотека",
+		"title": "Добротолюбие. Т. 5",
+		"URL": "https://search.rsl.ru/ru/record/01001675234",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/VYXSWXUC",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 Д56 00089",
+		"collection-title": "Добротолюбие [В 5 т. Перевод]",
+		"language": "rus",
+		"note": "container-title: Добротолюбие : Перевод]\nRSLID: 01001675234",
+		"number-of-pages": "440",
+		"publisher": "Свято-Троиц. Сергиева лавра",
+		"publisher-place": "Сергиев Посад",
+		"source": "Российская Государственная Библиотека",
+		"title": "Добротолюбие. Т. 4",
+		"URL": "https://search.rsl.ru/ru/record/01001675234",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/UCMPHWKU",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 Д56 00088",
+		"collection-title": "Добротолюбие [В 5 т. Перевод]",
+		"language": "rus",
+		"note": "container-title: Добротолюбие : Перевод]\nRSLID: 01001675234",
+		"number-of-pages": "440",
+		"publisher": "Свято-Троиц. Сергиева лавра",
+		"publisher-place": "Сергиев Посад",
+		"source": "Российская Государственная Библиотека",
+		"title": "Добротолюбие. Т. 3",
+		"URL": "https://search.rsl.ru/ru/record/01001675234",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/RPX8US5P",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 Д56 00086",
+		"collection-title": "Добротолюбие [Сб. духов. писаний Великих Старцев] В 12 т. [Перевод]",
+		"ISBN": "978-5-7344-0035-7",
+		"language": "rus",
+		"note": "Book Title: Добротолюбие : [Перевод]\nRSLID: 01001674762",
+		"number-of-pages": "336",
+		"publisher": "Рус. духов. центр",
+		"publisher-place": "М.",
+		"source": "Российская Государственная Библиотека",
+		"title": "Добротолюбие. Т. 1",
+		"URL": "https://search.rsl.ru/ru/record/01001674762",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/CCG77THJ",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 Д56 00087",
+		"collection-title": "Добротолюбие [В 5 т. Перевод]",
+		"language": "rus",
+		"note": "container-title: Добротолюбие : Перевод]\nRSLID: 01001675233",
+		"number-of-pages": "760",
+		"publisher": "Свято-Троиц. Сергиева лавра",
+		"publisher-place": "Сергиев Посад",
+		"source": "Российская Государственная Библиотека",
+		"title": "Добротолюбие. Т. 2",
+		"URL": "https://search.rsl.ru/ru/record/01001675233",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/9CEQKNSH",
+		"type": "book",
+		"call-number": "А-5.1 А72 00120",
+		"number-of-pages": "58",
+		"publisher": "Христианская жизнь",
+		"publisher-place": "Клин",
+		"title": "О покаянии. Проповеди",
+		"author": [
+			{
+				"family": "Антоний Сурожский, митр.",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/ILEP5LYE",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-7 М17 00112",
+		"language": "rus",
+		"note": "RSLID: 01006806129\nBBK: Э372-19,0",
+		"number-of-pages": "36",
+		"publisher": "б. и.",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Чем Православие отличается от католицизма, протестанизма и монофизитства?",
+		"author": [
+			{
+				"family": "Максимов Георгий, диак.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/KJ4YRRJY",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-7 И94 00110",
+		"collection-number": "2012, вып. 1 (специальный оттиск)",
+		"collection-title": "Альманах \"Православие\"",
+		"language": "rus",
+		"note": "RSLID: 01010268609\nBBK: Э372-19,0; Э372-3-019.2,0",
+		"number-of-pages": "32",
+		"publisher": "б. и.",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Записки об экуменизме: новооткрытый текст",
+		"title-short": "Записки об экуменизме",
+		"URL": "https://search.rsl.ru/ru/record/01010268609",
+		"author": [
+			{
+				"family": "Иустин (Попович), прп.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/WH6MRPSW",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-9 П55 00108",
+		"ISBN": "978-5-00059-289-2",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01009848498\nBBK: Э372.24-643-370.8Кирилл (Павлов),0",
+		"number-of-pages": "351",
+		"publisher": "Духовное преображение",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Помощник преподобного Сергия. Жизнеописание. Духовный алфавит архимандрита Кирилла (Павлова)",
+		"URL": "https://search.rsl.ru/ru/record/01009848498",
+		"editor": [
+			{
+				"family": "Соколова Ольга",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/2L557IZG",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-8 В19 00105",
+		"ISBN": "978-5-98268-003-7",
+		"language": "rus",
+		"note": "RSLID: 01003355345\nBBK: Э372-503.26,0",
+		"number-of-pages": "202",
+		"publisher": "Богородице-Сергиева Пустынь",
+		"publisher-place": "Б. м.",
+		"source": "Российская Государственная Библиотека",
+		"title": "Входное: элементы литургического опыта таинства единства в Православной Церкви: [авторизованный пер. с греч.]",
+		"title-short": "Входное =",
+		"URL": "https://search.rsl.ru/ru/record/01003355345",
+		"author": [
+			{
+				"family": "Василий (Гондикакис), архим.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/MYJS8CS7",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-9 П35 00131",
+		"edition": "Изд. 11-е",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01006532034\nBBK: Э372.24-43,13",
+		"number-of-pages": "542",
+		"publisher": "Свято-Успенский Псково-Печерский монастырь",
+		"publisher-place": "Печоры",
+		"source": "Российская Государственная Библиотека",
+		"title": "Письма архимандрита Иоанна (Крестьянкина)",
+		"URL": "https://search.rsl.ru/ru/record/01006532034",
+		"author": [
+			{
+				"family": "Иоанн Крестьянкин, архим.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/FCJKY9IE",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-9 У45 00132",
+		"ISBN": "978-5-98827-003-4",
+		"language": "rus",
+		"number-of-pages": "118",
+		"publisher": "Синодальный информ. отд. Московского Патриархата",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Украина встречает Патриарха: летопись первосвятительского визита, выступления и проповеди",
+		"title-short": "Украина встречает Патриарха",
+		"URL": "https://search.rsl.ru/ru/record/01004419157",
+		"author": [
+			{
+				"family": "Кирилл (Гундяев), патриарх",
+				"given": ""
+			}
+		],
+		"editor": [
+			{
+				"family": "Иларион (Алфеев), митр.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/Y6EG5VAX",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "АБВ Ф42 00119",
+		"ISBN": "978-5-91362-536-6",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01005432249\nBBK: Э372.24-438я44",
+		"number-of-pages": "493",
+		"publisher": "Сибирская Благозвонница",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Путь ко спасению",
+		"URL": "https://search.rsl.ru/ru/record/01005432249",
+		"author": [
+			{
+				"family": "Феофан Затворник, свт.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/3MZSMERF",
+		"type": "book",
+		"call-number": "АБВ П72 00045",
+		"edition": "Издательство Олега Абышко",
+		"number-of-pages": "424",
+		"title": "Сочинения",
+		"author": [
+			{
+				"family": "Преподобные Нил Сорский и Иннокентий Комельский",
+				"given": ""
+			},
+			{
+				"family": "Прохоров",
+				"given": "Г. М."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/QME7QY3B",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "АБВ Ф42 00128",
+		"ISBN": "978-5-7533-0120-8",
+		"language": "rus",
+		"number-of-pages": "398",
+		"publisher": "Правило веры",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Мысли на каждый день года по церковным чтениям из Слова Божия: краткие поучения",
+		"title-short": "Мысли на каждый день года по церковным чтениям из Слова Божия",
+		"URL": "https://search.rsl.ru/ru/record/01003152668",
+		"author": [
+			{
+				"family": "Феофан Затворник, свт.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/K8UHUWWK",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "АБВ И26 00102",
+		"ISBN": "978-5-00059-309-7",
+		"language": "rus",
+		"medium": "Текст",
+		"number-of-pages": "815",
+		"publisher": "Духовное преображение",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Избранные творения",
+		"URL": "https://search.rsl.ru/ru/record/01009935020",
+		"author": [
+			{
+				"family": "Игнатий",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/BWSM636P",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-2 К27 00058",
+		"language": "rus",
+		"note": "RSLID: 01002441289\nBBK: Э372.24-3,0",
+		"publisher": "YMCA-press",
+		"publisher-place": "Париж",
+		"source": "Российская Государственная Библиотека",
+		"title": "Очерки по истории русской церкви. Т. II",
+		"URL": "https://search.rsl.ru/ru/record/01002441289",
+		"author": [
+			{
+				"family": "Карташев Антон Владимирович",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1959"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/85UES4XU",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-8 С55 00085",
+		"collection-title": "Духовная академия",
+		"ISBN": "978-5-485-00521-4",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01009545801",
+		"number-of-pages": "1024",
+		"publisher": "Даръ",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Cобрание древних литургий восточных и западных. Анафора: евхаристическая молитва",
+		"title-short": "Cобрание древних литургий восточных и западных. Анафора",
+		"URL": "https://search.rsl.ru/ru/record/01009545801",
+		"editor": [
+			{
+				"family": "Гупало",
+				"given": "Г. М."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/AXZFPMWJ",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-6 П68 00091",
+		"ISBN": "978-5-901094-30-3",
+		"language": "rus",
+		"note": "Book Title: Правила св\nRSLID: 01000724895\nBBK: Э371-3-014.2,0",
+		"number-of-pages": "885",
+		"publisher": "Православ. Браство св. князей Бориса и Глеба",
+		"publisher-place": "Тутаев",
+		"source": "Российская Государственная Библиотека",
+		"title": "Правила первых шести святых поместных соборов. Ч. 1",
+		"URL": "https://search.rsl.ru/ru/record/01000724895",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/2XQ9BX3Z",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-6 П68 00092",
+		"ISBN": "978-5-901094-30-3",
+		"language": "rus",
+		"note": "Book Title: Правила св\nRSLID: 01000724895\nBBK: Э371-3-014.2,0",
+		"number-of-pages": "885",
+		"publisher": "Православ. Браство св. князей Бориса и Глеба",
+		"publisher-place": "Тутаев",
+		"source": "Российская Государственная Библиотека",
+		"title": "Правила первых шести святых поместных соборов. Ч. 2",
+		"URL": "https://search.rsl.ru/ru/record/01000724895",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/IKQZUESS",
+		"type": "book",
+		"call-number": "Б-2 Ф34 00056",
+		"publisher-place": "Иваново",
+		"title": "История Ивановской Епархии",
+		"author": [
+			{
+				"family": "Федотов А.А.",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/MUBCXZG8",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-1 Л52 00055",
+		"ISBN": "978-5-88213-087-8",
+		"language": "rus",
+		"note": "RSLID: 01004417308\nBBK: Э372.24-647.2,0",
+		"number-of-pages": "724",
+		"publisher": "Христианская б-ка",
+		"publisher-place": "Нижний Новгород",
+		"source": "Российская Государственная Библиотека",
+		"title": "Летопись Серафимо-Дивеевского монастыря Нижегородской губернии Ардатовского уезда с жизнеописанием основателей ее: преподобного Серафима и схимонахини Александры, урожд. А. С. Мельгуновой",
+		"title-short": "Летопись Серафимо-Дивеевского монастыря Нижегородской губернии Ардатовского уезда с жизнеописанием основателей ее",
+		"URL": "https://search.rsl.ru/ru/record/01004417308",
+		"editor": [
+			{
+				"family": "Серафим Чичагов, архимандирт",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/VFKZLVHH",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-10 С24 00054",
+		"ISBN": "978-5-89097-010-7",
+		"language": "rus",
+		"note": "RSLID: 01000629950\nBBK: Э372.24-637.22-370.8Василий (Серебренников),0",
+		"number-of-pages": "240",
+		"publisher": "Астра семь",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Свеча богу: Моск. старец- протоиерей Василий Серебренников (1907-1996)",
+		"title-short": "Свеча богу",
+		"URL": "https://search.rsl.ru/ru/record/01000629950",
+		"editor": [
+			{
+				"family": "Горюнова-Борисова",
+				"given": "Анастасия Георгиевна"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/9BG9IDTA",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-10 Н62 00053",
+		"ISBN": "978-5-7429-0215-7",
+		"language": "rus",
+		"note": "RSLID: 01003030993\nBBK: Э372.24-346.1-028.2Никон.я43",
+		"number-of-pages": "185",
+		"publisher": "Изд-во ПСТГУ",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Никоновский сборник: сборник посвященный 400-летию со дня рождения и 325-летию со дня преставления Никона Святейшего Патриарха Московского и всея Руси",
+		"title-short": "Никоновский сборник",
+		"URL": "https://search.rsl.ru/ru/record/01003030993",
+		"editor": [
+			{
+				"family": "Авдеев",
+				"given": "А. Г."
+			},
+			{
+				"literal": "Православный Свято-Тихоновский гуманитарный университет (Москва)"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/SJKYQZ8Z",
+		"type": "book",
+		"archive": "Изоматериалы",
+		"call-number": "К-1 В24 00052",
+		"collection-title": "Святыни Подмосковья",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01005025313\nBBK: Э372.24-647.2,0",
+		"number-of-pages": "81",
+		"publisher": "СТСЛ",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Введенский Владычний женский монастырь в городе Серпухове",
+		"URL": "https://search.rsl.ru/ru/record/01005025313",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/8CT7IZPL",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "В-3 С59 00051",
+		"ISBN": "978-5-89510-011-0",
+		"language": "rus",
+		"note": "RSLID: 01000987216\nBBK: Ш9:Э372.24-439(2)",
+		"number-of-pages": "46",
+		"publisher": "Православ. педагогика",
+		"publisher-place": "[М.}",
+		"source": "Российская Государственная Библиотека",
+		"title": "Маленькие горящие фонарики",
+		"URL": "https://search.rsl.ru/ru/record/01000987216",
+		"author": [
+			{
+				"family": "Соколова",
+				"given": "Наталия Николаевна"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/AZICH43I",
+		"type": "book",
+		"call-number": "К-0 Н40 00050",
+		"title": "Невероятные дары. Православная народная книга. Жизненный подвиг,необыкновенно чудеса,  советы и пророчества двух афонских подвижников",
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/U9VTAVCE",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-9 М75 00049",
+		"ISBN": "978-5-91761-645-2",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01008731059\nBBK: Э372.24-503.11,0",
+		"number-of-pages": "110",
+		"publisher": "Никея",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Молитвы митрополита Антония Сурожского",
+		"URL": "https://search.rsl.ru/ru/record/01008731059",
+		"editor": [
+			{
+				"family": "Садовникова",
+				"given": "Елена Юрьевна"
+			},
+			{
+				"literal": "\"Духовное наследие митрополита Антония Сурожского\", фонд (Москва)"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/ZBE4FRZR",
+		"type": "book",
+		"call-number": "К-0 Н74 00048",
+		"publisher": "Шестоднев",
+		"title": "Общественно-церковная конференция \"Новомученики и исповедники Северо-восточного округа г. Москвы\". Доклады и материалы",
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/HQWJL93F",
+		"type": "book",
+		"call-number": "А-3 Б90 00047",
+		"publisher": "Терра",
+		"publisher-place": "М",
+		"title": "Православие. Очерки учения Православной Церкви",
+		"author": [
+			{
+				"family": "Булгаков Сергий, прот.",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/MSDHX6WK",
+		"type": "book",
+		"call-number": "АБВ П72 00045",
+		"publisher": "Издательство Олега Абышко",
+		"title": "Преподобные Нил Сорский и Иннокентий Комельский. Сочинения",
+		"editor": [
+			{
+				"family": "Прохоров",
+				"given": "Г. М."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/Q7RJJUWK",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-0 П72 00044",
+		"collection-title": "Библиотека святых Кирилла и Мефодия",
+		"ISBN": "978-5-88528-022-8",
+		"language": "rus",
+		"note": "RSLID: 01001651176",
+		"number-of-pages": "231",
+		"publisher": "Газ.-журн. об-ние \"Воскресенье\" Обитель преп. Иова Почаевского",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Преподобный Серафим Саровский: Сборник",
+		"title-short": "Преподобный Серафим Саровский",
+		"URL": "https://search.rsl.ru/ru/record/01001651176",
+		"author": [
+			{
+				"family": "Серафим Саровский",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/KCJLWLYJ",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 М77 00043",
+		"language": "rus",
+		"note": "RSLID: 01001604662",
+		"number-of-pages": "206",
+		"publisher": "Свято-Данилов монастырь СП \"Квадрат\"",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Монашеское делание: Сб. поучений святых отцов и подвижников благочестия",
+		"title-short": "Монашеское делание",
+		"URL": "https://search.rsl.ru/ru/record/01001604662",
+		"editor": [
+			{
+				"family": "Емеличев",
+				"given": "Владимир"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/94UJA3LV",
+		"type": "book",
+		"call-number": "К-1 Х89 00042",
+		"collection-title": "Православный атлас",
+		"title": "Храм Воздвижения Креста Господня в Алтуфьеве"
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/4MFHL7JV",
+		"type": "book",
+		"abstract": "Составлено по публикациям прежних лет Олегом Шведовым",
+		"call-number": "К-0 П72 00041",
+		"publisher": "Храм во имя Преображения Господня",
+		"title": "Преподобный Давид Гареджийский и его святая Лавра",
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/L4C634K6",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-1 Х89 00040",
+		"collection-number": "вып. 1",
+		"collection-title": "Московский приходский сборник",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "container-title: Московский приходский сборник : Прил. к \"Моск. журн.\"\nRSLID: 01006704141\nBBK: Э372.24-655.11Москва 8Николая Чудотворца в Кленниках,0",
+		"number-of-pages": "206",
+		"publisher": "Московский журнал",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Храм Николая Чудотворца в Кленниках: сборник",
+		"title-short": "Храм Николая Чудотворца в Кленниках",
+		"URL": "https://search.rsl.ru/ru/record/01006704141",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/6ZXNAP3V",
+		"type": "webpage",
+		"title": "Поиск - Search RSL",
+		"URL": "https://search.rsl.ru/ru/search#q=%D0%BA%D0%BB%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%201991",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/BXQX5RUY",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-10 С92 00039",
+		"edition": "2-е изд., испр. и доп",
+		"language": "rus",
+		"note": "RSLID: 01001712720",
+		"number-of-pages": "66",
+		"publisher": "Паломник",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Схимонах Филипп, основатель Пещерной обители и Киновии Боголюбивой Богоматери при Гефсиманском ските близ Свято-Троицкой Сергиевой Лавры",
+		"URL": "https://search.rsl.ru/ru/record/01001712720",
+		"author": [
+			{
+				"family": "Кельцев",
+				"given": "Сергей Андреевич"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/DVJIRXYG",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-3 М45 00038",
+		"edition": "Изд. 2-е, испр",
+		"language": "rus",
+		"note": "RSLID: 01000553137\nBBK: Э37-4,0",
+		"number-of-pages": "359",
+		"publisher": "Христианская жизнь",
+		"publisher-place": "Клин",
+		"source": "Российская Государственная Библиотека",
+		"title": "Введение в святоотеческое богословие: конспекты лекций",
+		"title-short": "Введение в святоотеческое богословие",
+		"URL": "https://search.rsl.ru/ru/record/01000553137",
+		"author": [
+			{
+				"family": "Мейендорф Иоанн, прот.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/MQLWPURN",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-0 Н74 00037",
+		"language": "rus",
+		"note": "RSLID: 01010318367\nBBK: Э372.24-574.3,0; Э372.24-647.2,0",
+		"number-of-pages": "30",
+		"publisher": "Лето",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Новомученики Московского Новодевичьего монастыря",
+		"URL": "https://search.rsl.ru/ru/record/01010318367",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/MXI8X4FQ",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-1 А94 00036",
+		"ISBN": "978-5-903568-02-4",
+		"language": "rus",
+		"note": "RSLID: 01004319444\nBBK: Э372.24-647.2,0",
+		"number-of-pages": "367",
+		"publisher": "Вера, Надежда, Любовь",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "По этим стертым оптинским ступеням …: Оптина пустынь: люди и судьбы",
+		"title-short": "По этим стертым оптинским ступеням …",
+		"URL": "https://search.rsl.ru/ru/record/01004319444",
+		"author": [
+			{
+				"family": "Афанасьева",
+				"given": "Зоя Михайловна"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/QPFF6BTL",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-10 Ж71 00035",
+		"ISBN": "978-5-91362-453-6",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01005485675\nBBK: Э372.14-643-350.8Иероним (Соломенцов),0",
+		"number-of-pages": "638",
+		"publisher": "Сибирская благозвонница",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Жизнеописание иеросхимонаха Иеронима, старца-духовника Русского на Афоне Свято-Пантелеимонова монастыря",
+		"URL": "https://search.rsl.ru/ru/record/01005485675",
+		"editor": [
+			{
+				"family": "Посадский",
+				"given": "Николай С."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/SJPR2QPH",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "К-1 Н90 00034",
+		"ISBN": "978-5-91173-088-8",
+		"language": "rus",
+		"note": "RSLID: 01004240715\nBBK: Э372.14,13",
+		"number-of-pages": "158",
+		"publisher": "Лепта Книга",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Открой в себе монаха! =: Der Monch in Mir: паломник о значении Афона для нашей жизни: с фотографиями автора",
+		"title-short": "Открой в себе монаха! =",
+		"URL": "https://search.rsl.ru/ru/record/01004240715",
+		"author": [
+			{
+				"family": "Нуссбаумер",
+				"given": "Гейнц"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/IFMJXJUZ",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "АБВ И75 00033",
+		"ISBN": "978-5-900453-21-7",
+		"language": "rus",
+		"note": "RSLID: 01000906842\nBBK: Э372.24-503.11,088",
+		"number-of-pages": "127",
+		"publisher": "Миръ",
+		"publisher-place": "СПб",
+		"source": "Российская Государственная Библиотека",
+		"title": "Чтоб молитва не была во грех: Размышления и советы св. прав. Иоанна Кронштадтского, почерпнутые из его писаний",
+		"title-short": "Чтоб молитва не была во грех",
+		"URL": "https://search.rsl.ru/ru/record/01000906842",
+		"author": [
+			{
+				"family": "Иоанн Кронштадтский",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/JHHDZ45Z",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-3 П55 00032",
+		"language": "rus",
+		"note": "RSLID: 01000702653\nBBK: Э372.240.923-42,0; Э372-42,0",
+		"number-of-pages": "346",
+		"publisher": "Фонд \"Христиан. жизнь\"",
+		"publisher-place": "Клин",
+		"source": "Российская Государственная Библиотека",
+		"title": "Догматическое богословие",
+		"URL": "https://search.rsl.ru/ru/record/01000702653",
+		"author": [
+			{
+				"family": "Помазанский",
+				"given": "Михаил Иванович"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/33QDYK94",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-9 К93 00031",
+		"ISBN": "978-5-7854-0053-5",
+		"language": "rus",
+		"note": "RSLID: 01000609767\nBBK: Э391.6,0; Э372.24-198.916,0",
+		"number-of-pages": "380",
+		"publisher": "Благовест",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Оккультизм в православии",
+		"URL": "https://search.rsl.ru/ru/record/01000609767",
+		"author": [
+			{
+				"family": "Кураев Андрей, диак.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/GKUZNK2U",
+		"type": "book",
+		"archive": "Ноты",
+		"call-number": "П-1 П28 00027",
+		"language": "rus",
+		"medium": "Ноты",
+		"note": "RSLID: 01004705758",
+		"number-of-pages": "73",
+		"publisher": "Красный звон",
+		"publisher-place": "Санкт-Петербург",
+		"source": "Российская Государственная Библиотека",
+		"title": "Друзьям: песни паломника: [для хора без сопровождения]",
+		"title-short": "Друзьям",
+		"URL": "https://search.rsl.ru/ru/record/01004705758",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/37D3PBPI",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 З38 00028",
+		"ISBN": "978-5-00009-079-4",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01008023931\nBBK: Э372-4-360.2,0",
+		"number-of-pages": "253",
+		"publisher": "б. и.",
+		"publisher-place": "Свято-Троицкая Сергиева Лавра",
+		"source": "Российская Государственная Библиотека",
+		"title": "Сокровенный сердца человек: духовные беседы",
+		"title-short": "Сокровенный сердца человек",
+		"URL": "https://search.rsl.ru/ru/record/01008023931",
+		"author": [
+			{
+				"family": "Захария",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/79RDFAMZ",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-9 Л83 00030",
+		"collection-title": "Серия \"Планета Православия\"",
+		"ISBN": "978-5-91761-378-9",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01007845296\nBBK: Э372.25-3-028,0; Э372.25-637.21,0",
+		"number-of-pages": "374",
+		"publisher": "Никея",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Люди Сербской Церкви: истории, судьбы, традиции",
+		"title-short": "Люди Сербской Церкви",
+		"URL": "https://search.rsl.ru/ru/record/01007845296",
+		"author": [
+			{
+				"family": "Луганская",
+				"given": "Светлана Алексеевна"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/VKE5PC6I",
+		"type": "book",
+		"call-number": "П-1 П72 00017",
+		"number-of-volumes": "4",
+		"publisher": "М.: Преображенский скит Данилова монастыря",
+		"title": "Преображенский Улей византийского пения (в 4-х томах). Минея. Т. 4. Июнь-август",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/4VLELNJW",
+		"type": "book",
+		"call-number": "П-1 П72 00018",
+		"number-of-volumes": "4",
+		"publisher": "М.: Преображенский скит Данилова монастыря",
+		"title": "Преображенский Улей византийского пения (в 4-х томах). Минея. Т. 1. Сентябрь-октябрь",
+		"volume": "1",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/K9DIXNBM",
+		"type": "book",
+		"call-number": "П-1 П72 00019",
+		"number-of-volumes": "4",
+		"publisher": "М.: Преображенский скит Данилова монастыря",
+		"title": "Преображенский Улей византийского пения (в 4-х томах). Минея. Т. 2. Ноябрь-декабрь",
+		"volume": "2",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/BHKLLU2D",
+		"type": "book",
+		"call-number": "П-1 П72 00020",
+		"number-of-volumes": "4",
+		"publisher": "М.: Преображенский скит Данилова монастыря",
+		"title": "Преображенский Улей византийского пения (в 4-х томах). Минея. Т. 3. Январь-май",
+		"volume": "3",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/Q6KWM6PG",
+		"type": "book",
+		"abstract": "Впервые после октябрьской революции читателю предлагается религиоведческий труд, посвященный православному осмыслению трех мировых религий - ислама, буддизма и иудаизма. Для студентов духовных школ, вузов",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-6 М17 00023",
+		"ISBN": "978-5-98988-003-4",
+		"language": "rus",
+		"note": "RSLID: 01002774436\nBBK: Э372.24-19,0; Э23,0",
+		"number-of-pages": "300",
+		"publisher": "Изд-во храма пророка Даниила на Кантемировской",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Православное религиоведение: Ислам. Буддизм. Иудаизм",
+		"title-short": "Православное Религиоведение",
+		"URL": "https://search.rsl.ru/ru/record/01002774436",
+		"author": [
+			{
+				"family": "Максимов",
+				"given": "Юрий"
+			},
+			{
+				"family": "Смоляр",
+				"given": "Кирилл"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/DIGBMFTR",
+		"type": "book",
+		"call-number": "Б-3 И80 00024",
+		"number-of-pages": "672",
+		"publisher": "СПб.: «Издательство Олега Абышко»",
+		"title": "Против ересей. Доказательство апостольской проповеди",
+		"author": [
+			{
+				"family": "Ириней Лионский, сщмч.",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/UBMWMY3B",
+		"type": "book",
+		"call-number": "А-1 Е18 00025",
+		"number-of-pages": "232",
+		"publisher": "Владимир: Транзит-ИКС",
+		"title": "От псалма к псалму",
+		"author": [
+			{
+				"family": "Евлогий (Смирнов), митр.",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/UXFJMF2T",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-5.1 И90 00026",
+		"ISBN": "978-5-9908755-2-4",
+		"language": "rus",
+		"note": "RSLID: 01010029992\nBBK: Э372.14-3,0",
+		"number-of-pages": "255",
+		"publisher": "Пензенская духовная семинария",
+		"publisher-place": "Пенза",
+		"source": "Российская Государственная Библиотека",
+		"title": "История колливадского движения: сборник материалов, посвященных \"колливадскому движению\" на Афоне в XVIII-XIX вв.",
+		"title-short": "История колливадского движения",
+		"URL": "https://search.rsl.ru/ru/record/01010029992",
+		"editor": [
+			{
+				"family": "Калинин",
+				"given": "Федор"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/2FPGJU5W",
+		"type": "book",
+		"abstract": "В книге рассказывается о радости вхождения в мир Божией на примере устроения духовной жизни Свято-Троицкого Ново-Голутвина женского монастыря",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "Б-9 П82 00022",
+		"language": "rus",
+		"note": "RSLID: 01002575362\nBBK: Э372.24-647.2,0; Э372.24-462.256.472,0",
+		"number-of-pages": "335",
+		"publisher": "Свято-Троиц. Ново-Голутвин монастырь",
+		"publisher-place": "Коломна",
+		"source": "Российская Государственная Библиотека",
+		"title": "Простые Беседы о пути в монастырь",
+		"URL": "https://search.rsl.ru/ru/record/01002575362",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/SLMCZYUM",
+		"type": "book",
+		"abstract": "На церковнославянском языке",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-0 Н76 00046",
+		"ISBN": "978-5-901094-27-3",
+		"language": "rus",
+		"note": "RSLID: 01000714397\nBBK: Э37-220,0",
+		"number-of-pages": "830",
+		"publisher": "Православ. братство святых князей Бориса и Глеба",
+		"publisher-place": "Тутаев",
+		"source": "Российская Государственная Библиотека",
+		"title": "Новый Завет Господа нашего Иисуса Христа",
+		"URL": "https://search.rsl.ru/ru/record/01000714397",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/ZTDYRJ7X",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-2 Е13 00084",
+		"ISBN": "978-5-91173-267-7",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01006585570\nBBK: Э37-220.911,0",
+		"number-of-pages": "861",
+		"publisher": "Лепта Книга",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Евангелие дня. Толкования на Евангельские чтения церковного года",
+		"URL": "https://search.rsl.ru/ru/record/01006585570",
+		"editor": [
+			{
+				"family": "Болотина",
+				"given": "Дарья Ивановна"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/XUB7JDY9",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-2 Е13 00313",
+		"collection-title": "Для школы и амвона",
+		"ISBN": "978-5-7533-0086-7",
+		"language": "rus",
+		"note": "RSLID: 01000619987\nBBK: Э37-220.911,0",
+		"number-of-pages": "909",
+		"publisher": "Правило веры",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Евангельские беседы на каждый день года по церковным зачалам. Толкование на Евангелие",
+		"URL": "https://search.rsl.ru/ru/record/01000619987",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/EPA4VH65",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-2 М69 00172",
+		"language": "rus",
+		"note": "RSLID: 01001798082",
+		"number-of-pages": "477",
+		"publisher": "Изд-во Сретен. монастыря",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Объяснение апостольских чтений на литургии во все воскресные дни года",
+		"URL": "https://search.rsl.ru/ru/record/01001798082",
+		"author": [
+			{
+				"family": "Михайловский",
+				"given": "Василий"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/LCBKFTB6",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-2 Р83 00174",
+		"edition": "Репринт. изд.",
+		"language": "rus",
+		"note": "RSLID: 01001708237\nBBK: Э37-228.3,0; Э37-220.913.2,0",
+		"number-of-pages": "513",
+		"publisher": "Правило веры",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Жизнь и труды святого апостола Павла: Последоват. коммент. апостол. посланий, сост. по трудам епископа Феофана Затворника священником Н. Рудинским",
+		"title-short": "Жизнь и труды святого апостола Павла",
+		"URL": "https://search.rsl.ru/ru/record/01001708237",
+		"editor": [
+			{
+				"family": "Рудинский",
+				"given": "Н."
+			},
+			{
+				"family": "Феофан Затворник, свт.",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4505988/items/JR7KB2K2",
+		"type": "book",
+		"archive": "Книги (изданные с 1831 г. по настоящее время)",
+		"call-number": "А-2 В19 00064",
+		"ISBN": "978-5-00059-303-5",
+		"language": "rus",
+		"medium": "Текст",
+		"note": "RSLID: 01009910210\nBBK: Э372.24-462.25,0; Э37-220.911.32,0",
+		"number-of-pages": "879",
+		"publisher": "Духовное преображение",
+		"publisher-place": "Москва",
+		"source": "Российская Государственная Библиотека",
+		"title": "Беседы на Евангелие от Марка",
+		"URL": "https://search.rsl.ru/ru/record/01009910210",
+		"author": [
+			{
+				"family": "Василий Кинешемский, сщисп",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
 				]
 			]
 		}
