@@ -61,8 +61,8 @@
       <text value=": "/>
       <text variable="publisher"/>
     </group>
-    <text macro="year-date" suffix="." prefix=", "/>
-    <text variable="edition" prefix=" Вып. "/>
+    <text macro="year-date" suffix=". " prefix=", "/>
+    <text variable="edition" />
   </macro>
   <macro name="year-date">
     <date variable="issued">
