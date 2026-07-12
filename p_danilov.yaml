@@ -54,7 +54,7 @@
   author:
     - "Алмазов, Александр"
   date: 1995
-  language: "rus"
+  language: rus
   page-total: 609
   url:
     value: https://search.rsl.ru/ru/record/01001726752
@@ -253,7 +253,7 @@
   publisher:
     name: "Индрик"
     location: "М"
-  language: "rus"
+  language: rus
   page-total: 319
   url:
     value: https://search.rsl.ru/ru/record/01002392046
@@ -1123,7 +1123,7 @@ search_rsl_ru_1995_тайная_исповедь_в_пра:
   type: book
   title: "Тайная исповедь в православной восточной Церкви. Специальные уставы, отдельные молитвословия и церковно-гражданские постановления, относящиеся к исповеди. Т. 2"
   date: 1995
-  language: "rus"
+  language: rus
   page-total: 464
   url:
     value: https://search.rsl.ru/ru/record/01001726753
@@ -2182,7 +2182,7 @@ item_2020_духовные_очаги_сергиева_посада:
     location: "Москва"
   serial-number:
     isbn: "978-5-89816-186-6"
-  language: "rus"
+  language: rus
   edition: "3-е изд"
   page-total: 166
   url:
@@ -2592,7 +2592,7 @@ item_2020_труды_по_русской_патрологии_на:
   date: 2004
   publisher: "Псалтирь"
   archive-location: "К-0"
-  call-number: "К-0 А46"
+  call-number: "А46"
   note: "Catalog: Библиотека Свято-Троицкого Данилова монастыря"
 
 item_2002_небесный_ангел_светлой_памяти:
@@ -2921,7 +2921,7 @@ item_2020_послания_мужей_апостольских:
     location: "Москва"
   serial-number:
     isbn: "978-5-907117-93-8"
-  language: "rus"
+  language: rus
   page-total: 286
   url:
     value: https://search.rsl.ru/ru/record/01010386625
@@ -3529,7 +3529,7 @@ theoria_new_jerusalem_an_anthology_album:
   publisher:
     name: "Индрик"
     location: "Москва"
-  language: "rus"
+  language: rus
   archive-location: "Б-8"
   call-number: "Б-8 Т28"
   abstract: "Часть текста на исп. яз., Библиогр.: с. 30-33, в подстроч. прим. и в тексте коммент., Указ.: с. 207-215"
@@ -3539,7 +3539,7 @@ theoria_new_jerusalem_an_anthology_album:
   type: book
   title: "Очерки Константинополя ; Босфор и новые очерки Константинополя / Константин Михайлович Базили"
   author:
-    - "Базили, Константин Михайлович NLR10::RU\\NLR\\auth\\739"
+    - "Базили, Константин Михайлович"
   date: 2006
   publisher:
     name: "Индрик"
@@ -3609,7 +3609,7 @@ theoria_new_jerusalem_an_anthology_album:
     location: "Москва"
   serial-number:
     isbn: "978-5-91674-018-9"
-  language: "rus"
+  language: rus
   archive-location: "З-48"
   call-number: "З48"
   abstract: "Авт. также на англ. яз.: Ya.E. Zelenina, Текст парал. на рус. и англ. яз., Библиогр. в подстроч. прим."
@@ -3669,7 +3669,7 @@ theoria_new_jerusalem_an_anthology_album:
   type: book
   title: "Русский Афон, 1878-1914 гг.: очерки церковно-политической истории"
   author:
-    - "Герд, Лора Александровна NLR10::RU\\NLR\\AUTH\\1"
+    - "Герд, Лора Александровна"
   date: 2010
   publisher:
     name: "Индрик"
@@ -4287,7 +4287,7 @@ theoria_new_jerusalem_an_anthology_album:
   publisher: "М.: Медленные книги"
   serial-number:
     isbn: "978-5-9906759-9-5"
-  language: "rus"
+  language: rus
   page-total: 527
   url: "https://search.rsl.ru/ru/search#q=%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%20%D0%BF%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD"
   archive-location: "Б-10"
@@ -4759,7 +4759,7 @@ item_1994_жизнеописания_святых_грузинско:
     location: "Москва"
   serial-number:
     isbn: "978-5-903004-33-1"
-  language: "rus"
+  language: rus
   url:
     value: https://search.rsl.ru/ru/record/01004627645
     date: 2022-11-02
@@ -4884,7 +4884,7 @@ item_1994_жизнеописания_святых_грузинско:
     location: "Москва"
   serial-number:
     isbn: "978-5-91761-761-9"
-  language: "rus"
+  language: rus
   page-total: 182
   url:
     value: https://search.rsl.ru/ru/record/01009544741
@@ -6181,7 +6181,7 @@ search_rsl_ru_1992_полный_православный_2:
     location: "Москва"
   serial-number:
     isbn: "978-5-462-01216-7"
-  language: "rus"
+  language: rus
   edition: "5-е изд., стер"
   page-total: 271
   url:
@@ -6586,7 +6586,7 @@ search_rsl_ru_справка_-_search_rsl:
     location: "Москва"
   serial-number:
     isbn: "978-5-7429-0415-1"
-  language: "rus"
+  language: rus
   page-total: 629
   url:
     value: https://search.rsl.ru/ru/record/01004800983
@@ -6666,7 +6666,7 @@ search_rsl_ru_2007_жития_русских_святых:
   date: 2007
   serial-number:
     isbn: "978-5-87468-196-8"
-  language: "rus"
+  language: rus
   page-total: 1048
   url:
     value: https://search.rsl.ru/ru/record/01002095876
@@ -6681,7 +6681,7 @@ search_rsl_ru_2007_жития_русских_святы_2:
   date: 2007
   serial-number:
     isbn: "978-5-87468-196-8"
-  language: "rus"
+  language: rus
   page-total: 1048
   url:
     value: https://search.rsl.ru/ru/record/01002095876
@@ -6785,7 +6785,7 @@ search_rsl_ru_2007_жития_русских_святы_2:
   title: "Жития русских святых Сентябрь - февраль. Т. 2"
   date: 2004
   publisher: "Сибирская Благозвонница"
-  language: "rus"
+  language: rus
   page-total: 1038
   url:
     value: https://search.rsl.ru/ru/record/01002096171
