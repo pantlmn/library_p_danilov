@@ -45,6 +45,11 @@ id}})
 #let good_items = yaml_sorted.filter(i => i.at(1).at("call-number").matches(good_call_number).len() > 0)
 #let weak_items = yaml_sorted.filter(i => i.at(1).at("call-number").matches(good_call_number).len() == 0)
 
+#let used_numbers = good_items.map(it => parse_call_number(it.at(1).call-number).at(4))
+
+#let unused_numbers = range(1, calc.max(..used_numbers)).filter(it => not used_numbers.contains(it) )
+Не появившиеся номера: #unused_numbers.map(it => str(it)).join(", ")
+
 = Нормально описанные (#{good_items.len()} шт)
 
 
