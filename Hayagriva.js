@@ -8,10 +8,42 @@
 	"priority": 100,
 	"inRepository": false,
 	"translatorType": 2,
-	"lastUpdated": "2026-03-13 00:00:00"
+	"lastUpdated": "2026-07-14 10:54:02"
 }
 
 // Hayagriva export translator for Zotero
+//
+// User-configurable citation key options. Reapply custom settings after
+// replacing this translator with a newer version.
+//
+// Supported pattern tokens:
+// - {author}: primary creator, publisher, institution, organization, etc.
+// - {year}: four-digit year when available
+// - {title}: full title, or "untitled" when missing
+// - {short-title}: first shortTitleWords words from the normalized title
+// - {zotero-key}: Zotero item key when available
+// - {item-type}: Zotero item type
+//
+// Set useStoredCitationKey to true to prefer Zotero's stored Citation Key
+// (including keys managed by Better BibTeX). Stored keys are preserved without
+// applying pattern, slugification, lowercase conversion, or maxLength. If a
+// stored key is unavailable, the configured pattern is used as a fallback.
+//
+// Set maxLength to null for no length limit on generated keys. Numeric values
+// below 8 are raised to 8 so that duplicate suffixes can be represented safely.
+var CITATION_KEY_OPTIONS = {
+	useStoredCitationKey: false,
+	pattern: "{author}_{year}_{title}",
+	maxLength: 40,
+	duplicateSuffix: "_{n}",
+	shortTitleWords: 3
+};
+
+var DEFAULT_CITATION_KEY_PATTERN = "{author}_{year}_{title}";
+var DEFAULT_CITATION_KEY_MAX_LENGTH = 40;
+var DEFAULT_DUPLICATE_SUFFIX = "_{n}";
+var MIN_CITATION_KEY_LENGTH = 8;
+
 // References:
 // - Zotero translator docs: https://www.zotero.org/support/dev/translators
 // - Hayagriva file format: https://github.com/typst/hayagriva/blob/main/docs/file-format.md
@@ -23,9 +55,15 @@ function doExport() {
 		if (!item || item.itemType === "note" || item.itemType === "attachment") continue;
 
 		var entry = buildEntry(item);
-		var key = makeUniqueCitationKey(generateCitationKey(item), seenKeys);
+		var keyData = getCitationKeyData(item);
+		var key = makeUniqueCitationKey(
+			keyData.base,
+			seenKeys,
+			keyData.maxLength,
+			keyData.isStored
+		);
 
-		Zotero.write(key + ":\n");
+		Zotero.write(yamlMappingKey(key) + ":\n");
 		Zotero.write(serializeMapping(entry, 2));
 		Zotero.write("\n");
 	}
@@ -444,7 +482,63 @@ function formatCreator(creator) {
 	return last || first || null;
 }
 
+function getCitationKeyData(item) {
+	if (CITATION_KEY_OPTIONS.useStoredCitationKey) {
+		var storedKey = cleanValue(item.citationKey);
+		if (storedKey) {
+			return {
+				base: storedKey,
+				maxLength: null,
+				isStored: true
+			};
+		}
+	}
+
+	return {
+		base: generateCitationKey(item),
+		maxLength: getCitationKeyMaxLength(),
+		isStored: false
+	};
+}
+
 function generateCitationKey(item) {
+	var pattern = cleanValue(CITATION_KEY_OPTIONS.pattern) || DEFAULT_CITATION_KEY_PATTERN;
+
+	// Preserve the historical author_year_full_title behavior exactly when the
+	// default pattern is selected. Length limiting is applied later, after a
+	// duplicate suffix has been chosen.
+	if (pattern === DEFAULT_CITATION_KEY_PATTERN) {
+		return generateLegacyCitationKeyBase(item);
+	}
+
+	var title = cleanText(item.title) || "untitled";
+	var tokenValues = {
+		author: getPrimaryKeyPart(item),
+		year: extractYear(item.date),
+		title: title,
+		"short-title": getShortTitle(title, CITATION_KEY_OPTIONS.shortTitleWords),
+		"zotero-key": cleanValue(item.key),
+		"item-type": cleanValue(item.itemType)
+	};
+
+	var unknownTokens = Object.create(null);
+	var rendered = pattern.replace(/\{([^{}]+)\}/g, function (match, token) {
+		if (Object.prototype.hasOwnProperty.call(tokenValues, token)) {
+			return slugify(tokenValues[token] || "");
+		}
+		unknownTokens[token] = true;
+		return "";
+	});
+
+	for (var token in unknownTokens) {
+		debugCitationKey("Unknown citation key token {" + token + "}; it was omitted.");
+	}
+
+	var key = normalizePatternSeparators(slugify(rendered));
+	return key || "item";
+}
+
+function generateLegacyCitationKeyBase(item) {
 	var parts = [];
 	var authorish = getPrimaryKeyPart(item);
 	var year = extractYear(item.date);
@@ -454,9 +548,28 @@ function generateCitationKey(item) {
 	if (year) parts.push(year);
 	if (title) parts.push(title);
 
-	var key = parts.filter(Boolean).join("_") || "item";
-	if (key.length > 40) key = key.slice(0, 40).replace(/_+$/g, "");
-	return key || "item";
+	return parts.filter(Boolean).join("_") || "item";
+}
+
+function getShortTitle(title, wordLimit) {
+	var normalized = slugify(title || "");
+	if (!normalized) return "";
+
+	var limit = parseInt(wordLimit, 10);
+	if (!isFinite(limit) || limit < 1) limit = 3;
+
+	var words = normalized.split(/[_-]+/).filter(Boolean);
+	if (!words.length) return normalized;
+	return words.slice(0, limit).join("_");
+}
+
+function normalizePatternSeparators(value) {
+	value = value || "";
+	value = value.replace(/[_-]{2,}/g, function (separators) {
+		return separators.charAt(0);
+	});
+	value = value.replace(/^[_-]+|[_-]+$/g, "");
+	return value;
 }
 
 function getPrimaryKeyPart(item) {
@@ -480,19 +593,117 @@ function extractYear(date) {
 	return m ? m[0] : null;
 }
 
-function makeUniqueCitationKey(base, seenKeys) {
+function makeUniqueCitationKey(base, usedKeys, maxLength, isStored) {
 	base = base || "item";
-	if (!seenKeys[base]) {
-		seenKeys[base] = 1;
-		return base;
+	if (maxLength === undefined) maxLength = getCitationKeyMaxLength();
+
+	var candidate = fitCitationKey(base, "", maxLength);
+	var number = 2;
+
+	if (usedKeys[candidate] && isStored) {
+		debugCitationKey(
+			'Duplicate stored Citation Key "' + base +
+			'"; an export-only suffix will be added.'
+		);
 	}
-	seenKeys[base]++;
-	var suffix = "_" + seenKeys[base];
-	var trimmed = base;
-	// if (trimmed.length + suffix.length > 40) {
-	// 	trimmed = trimmed.slice(0, 40 - suffix.length).replace(/_+$/g, "");
-	// }
+
+	while (usedKeys[candidate]) {
+		var suffix = makeDuplicateSuffix(number, maxLength);
+		candidate = fitCitationKey(base, suffix, maxLength);
+		number++;
+	}
+
+	// Reserve the actual emitted key, not just the untrimmed base. This avoids
+	// collisions such as foo, foo, foo_2 and collisions caused by truncation.
+	usedKeys[candidate] = true;
+	return candidate;
+}
+
+function getCitationKeyMaxLength() {
+	var value = CITATION_KEY_OPTIONS.maxLength;
+	if (value === null) return null;
+	if (value === undefined) return DEFAULT_CITATION_KEY_MAX_LENGTH;
+
+	var parsed = parseInt(value, 10);
+	if (!isFinite(parsed)) {
+		debugCitationKey("Invalid maxLength; using " + DEFAULT_CITATION_KEY_MAX_LENGTH + ".");
+		return DEFAULT_CITATION_KEY_MAX_LENGTH;
+	}
+	if (parsed < MIN_CITATION_KEY_LENGTH) {
+		debugCitationKey("maxLength below " + MIN_CITATION_KEY_LENGTH + "; using " + MIN_CITATION_KEY_LENGTH + ".");
+		return MIN_CITATION_KEY_LENGTH;
+	}
+	return parsed;
+}
+
+function makeDuplicateSuffix(number, maxLength) {
+	var pattern = cleanValue(CITATION_KEY_OPTIONS.duplicateSuffix) || DEFAULT_DUPLICATE_SUFFIX;
+	if (pattern.indexOf("{n}") === -1) {
+		debugCitationKey("duplicateSuffix must contain {n}; using " + DEFAULT_DUPLICATE_SUFFIX + ".");
+		pattern = DEFAULT_DUPLICATE_SUFFIX;
+	}
+
+	var suffix = sanitizeCitationKeySuffix(pattern.replace(/\{n\}/g, String(number)));
+	if (!suffix) suffix = "_" + number;
+	if (maxLength !== null && codePointLength(suffix) >= maxLength) {
+		debugCitationKey("duplicateSuffix is too long for maxLength; using _{n} for this key.");
+		suffix = "_" + number;
+	}
+	return suffix;
+}
+
+function sanitizeCitationKeySuffix(value) {
+	value = cleanText(value || "") || "";
+	value = value.replace(/[^\p{L}\p{N}_-]+/gu, "_");
+	value = value.replace(/_+$/g, "");
+	return value.toLowerCase();
+}
+
+function fitCitationKey(base, suffix, maxLength) {
+	base = base || "item";
+	suffix = suffix || "";
+
+	if (maxLength === null) return base + suffix;
+
+	var available = maxLength - codePointLength(suffix);
+	if (available < 1) available = 1;
+
+	var trimmed = sliceCodePoints(base, 0, available).replace(/_+$/g, "");
+	if (!trimmed) {
+		trimmed = sliceCodePoints("item", 0, available) || "i";
+	}
 	return trimmed + suffix;
+}
+
+function codePointLength(value) {
+	return toCodePoints(String(value || "")).length;
+}
+
+function sliceCodePoints(value, start, end) {
+	return toCodePoints(String(value || "")).slice(start, end).join("");
+}
+
+function toCodePoints(value) {
+	var points = [];
+	for (var i = 0; i < value.length; i++) {
+		var first = value.charCodeAt(i);
+		if (first >= 0xD800 && first <= 0xDBFF && i + 1 < value.length) {
+			var second = value.charCodeAt(i + 1);
+			if (second >= 0xDC00 && second <= 0xDFFF) {
+				points.push(value.slice(i, i + 2));
+				i++;
+				continue;
+			}
+		}
+		points.push(value.charAt(i));
+	}
+	return points;
+}
+
+function debugCitationKey(message) {
+	if (typeof Zotero !== "undefined" && Zotero.debug) {
+		Zotero.debug("Hayagriva citation key: " + message);
+	}
 }
 
 function slugify(str) {
@@ -661,6 +872,19 @@ function serializeListItem(lines, value, indent) {
 	lines.push(pad + "- " + yamlScalar(value, null) + "\n");
 }
 
+function yamlMappingKey(value) {
+	var str = String(value);
+
+	// Generated keys use this character set and can retain the historical plain
+	// YAML style. Stored Citation Keys outside this conservative set are quoted
+	// so their exact value remains valid as a YAML mapping key.
+	if (/^[\p{L}\p{N}_-]+$/u.test(str) && str !== "---" && str !== "...") {
+		return str;
+	}
+
+	return yamlQuotedString(str);
+}
+
 function yamlScalar(value, key) {
 	if (typeof value === "number") return String(value);
 	if (typeof value === "boolean") return value ? "true" : "false";
@@ -678,7 +902,11 @@ function yamlString(value, key) {
 	if (key === "page-range" && /^\d+(?:-\d+)+$/.test(str)) return str;
 	if (key === "value" && /^https?:\/\/\S+$/.test(str)) return str;
 
-	return '"' + str
+	return yamlQuotedString(str);
+}
+
+function yamlQuotedString(value) {
+	return '"' + String(value)
 		.replace(/\\/g, "\\\\")
 		.replace(/\r/g, "\\r")
 		.replace(/\n/g, "\\n")
