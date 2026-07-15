@@ -52,7 +52,7 @@ id}})
 #let used_numbers = good_items_sorted.map(it => parse_call_number(it.at(1).call-number).at(4))
 
 #let unused_numbers = range(1, 347).filter(it => not used_numbers.contains(it) )
-Не появившиеся номера: #unused_numbers.map(it => str(it)).join(", ")
+Не появившиеся номера (#unused_numbers.len() шт.): #unused_numbers.map(it => str(it)).join(", ")
 
 #let sections = json("sections.json")
 #outline()
