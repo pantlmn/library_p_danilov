@@ -71,13 +71,13 @@ id}})
   linebreak()
 }
 
-= Недостаточно описанные (#{weak_items_sorted.len()} шт)
-#for (k, data) in weak_items_sorted {
-  strong(data.at("call-number"))
-  [*:* ]  
-  cite(label(k), form: "full")
-  linebreak()
-}
+// = Недостаточно описанные (#{weak_items_sorted.len()} шт)
+// #for (k, data) in weak_items_sorted {
+//   strong(data.at("call-number"))
+//   [*:* ]  
+//   cite(label(k), form: "full")
+//   linebreak()
+// }
 
 
 #set text(size: 0pt)
